@@ -16,7 +16,7 @@ My research fields include Natural Language Processing (NLP) and Knowledge Graph
 
 ## Education
 
-Joint Graduate School of Southeast University and Monash University, *09/2022 - present*
+Southeast University - Monash University Joint Graduate School (Double degree) , *09/2022 - present*
 
 * M.S. in Artificial Intelligence. Advisor: [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en)
 
