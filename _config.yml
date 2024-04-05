@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Dehai Min's Homepage"
 title_separator          : "-"
 name                     : &name "Dehai Min"
-description              : &description "Master student at Southeast University and Monash University."
+description              : &description "Master student at Southeast & Monash Uni."
 url                      : https://zhishanq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhishanq.github.io"
@@ -21,14 +21,14 @@ repository               : "zhishanq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DehaiMin_p1.png"
   name             : "Dehai Min"
   pronouns         : # example: "she/her"  
-  bio              : "Master student at Southeast University and Monash University."
+  bio              : "Master student at Southeast & Monash Uni."
   location         : "Nanjing, China"
   employer         : 
   uri              : # URL
-  email            : "zhishanq@seu.edu.cn" 
+  email            : "dmin0007@student.monash.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
