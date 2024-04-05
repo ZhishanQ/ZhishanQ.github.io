@@ -4,14 +4,14 @@ title: "Awards & Honors"
 author_profile: true
 ---
 
-## Scholarships & Honors
+## Scholarships (selected)
 
-* **University-level first-class scholarship**, China, *Oct. 2019*
+* **University-level first-class scholarship**, China, *Oct. 2020*
 * **National Encouragement Scholarship**, China, *Oct. 2019*
 
 
 ## Competitions
-(I was an active participant in programming competitions during my undergraduate years.)
+( I was an active participant in programming competitions during my undergraduate years. )
 
 * ACM-ICPC (International Collegiate Programming Contest) , Asian Regional Contest (Shanghai Site and others), 2019-2020, **Silver Medal**
 * CCPC-Finals (China Collegiate Programming Contest National Finals), 2019, **21st place, Silver Medal**
