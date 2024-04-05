@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Dehai Min (闵德海)"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
