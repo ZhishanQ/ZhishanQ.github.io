@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Dehai Min (闵德海)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a second-year student at the Joint Graduate School (JGS) of Southeast University and Monash University. My graduate advisor is Professor [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. I am expected to earn my Master by research degree from Southeast University and my Master by course degree from Monash University in June 2025. 
+I am a second-year Master student at the Joint Graduate School of Southeast University and Monash University. My graduate advisor is Professor [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. I expect to receive a Master by research degree from Southeast University and a Master by course degree from Monash University in June 2025. 
 
-My research fields include Natural Language Processing (NLP) and Knowledge Graphs (KG). At present, my research interest lies in enhancing LLMs-based Question Answering systems, evaluating the performance of LLMs in QA, and developing methods for LLMs to handle hybrid data, such as structured KGs and semi-structured tables. Additionally, I have a strong interest in multimodal (vision, language, and speech) LLMs.
+My research fields include Natural Language Processing (NLP) and Knowledge Graphs (KG). 
+
+At present, my research interest lies in enhancing LLMs-based Question Answering systems, evaluating the performance of LLMs in QA, and developing methods for LLMs to handle hybrid data, such as structured KGs and semi-structured tables. Additionally, I have a strong interest in multimodal (vision, language, and speech) LLMs.
 
 <span style="color:red">**I am currently seeking Ph.D. positions for Fall 2025 admission. If you are interested in my profile, please feel free to [email me](mailto:dmin0007@student.monash.edu).**</span>
 
@@ -23,7 +25,7 @@ Joint Graduate School (JGS) of Southeast University and Monash University, Nanji
 
 Hefei University , *09/2017 - 06/2022*
 
-* B.S. in Electronic Engineering and Information Science
+* B.S. in Electronic and Information Engineering
 
 
 ## Publications 
