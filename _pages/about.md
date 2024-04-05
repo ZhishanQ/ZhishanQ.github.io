@@ -43,7 +43,7 @@ Hefei University , *09/2017 - 06/2022*
 
 
 ## Competitions
-(I was an active participant in programming competitions during my undergraduate years.)
+( I was an active participant in programming competitions during my undergraduate years. )
 
 * ACM-ICPC (International Collegiate Programming Contest) , Asian Regional Contest (Shanghai Site and others), 2019-2020, **Silver Medal**
 * CCPC-Finals (China Collegiate Programming Contest National Finals), 2019, **21st place, Silver Medal**
