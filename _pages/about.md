@@ -9,9 +9,7 @@ redirect_from:
 
 I am a second-year Master student at the Joint Graduate School of Southeast University and Monash University. My graduate advisor is Professor [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. I expect to receive a Master by research degree from Southeast University and a Master by course degree from Monash University in June 2025. 
 
-My research fields include Natural Language Processing (NLP) and Knowledge Graphs (KG). 
-
-At present, my research interest lies in enhancing LLMs-based Question Answering systems, evaluating the performance of LLMs in QA, and developing methods for LLMs to handle hybrid data, such as structured KGs and semi-structured tables. Additionally, I have a strong interest in multimodal (vision, language, and speech) LLMs.
+My research fields include Natural Language Processing (NLP) and Knowledge Graphs (KG). At present, my research interest lies in enhancing LLMs-based Question Answering systems, evaluating the performance of LLMs in QA, and developing methods for LLMs to handle hybrid data, such as structured KGs and semi-structured tables. Additionally, I also have a strong interest in multimodal (vision, language, and speech) LLMs.
 
 <span style="color:red">**I am currently seeking Ph.D. positions for Fall 2025 admission. If you are interested in my profile, please feel free to [email me](mailto:dmin0007@student.monash.edu).**</span>
 
@@ -51,4 +49,4 @@ Hefei University , *09/2017 - 06/2022*
 * CCPC-Finals (China Collegiate Programming Contest National Finals), 2019, **21st place, Silver Medal**
 * 16th Baidu Star Programming Contest, National Semi-Finals, 2019, **154th place (154/13900+)**
 * Anhui Province Collegiate Programming Contest, **First Prize (2 times, 2019, 2020), Champion (1 time, 2020)**
-* Codeforces Rating: 2108 (Master), [link](https://codeforces.com/profile/QieziMin)
+* Codeforces Rating: **2108 (Master)**, [link](https://codeforces.com/profile/QieziMin)
