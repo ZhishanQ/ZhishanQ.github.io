@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Master student at the Joint Graduate School of Southeast University and Monash University. My graduate advisor is Professor [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. I expect to receive a Master by research degree from Southeast University and a Master by course degree from Monash University in June 2025. 
+I am a second-year Master student at the Joint Graduate School (Double degree) of Southeast University and Monash University. My graduate advisor is Professor [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. I expect to receive a Master by research degree from Southeast University and a Master by course degree from Monash University in June 2025. 
 
 My research fields include Natural Language Processing (NLP) and Knowledge Graphs (KG). At present, my research interest lies in enhancing LLMs-based Question Answering systems, evaluating the performance of LLMs in QA, and developing methods for LLMs to handle hybrid data, such as structured KGs and semi-structured tables. Additionally, I also have a strong interest in multimodal (vision, language, and speech) LLMs.
 
@@ -16,10 +16,13 @@ My research fields include Natural Language Processing (NLP) and Knowledge Graph
 
 ## Education
 
-Southeast University - Monash University Joint Graduate School (Double degree) , *09/2022 - present*
+Southeast University , *09/2022 - present*
 
 * M.S. in Artificial Intelligence. Advisor: [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en)
 
+Monash University , *09/2022 - present*
+
+* M.S. in Artificial Intelligence.
 
 Hefei University , *09/2017 - 06/2022*
 
