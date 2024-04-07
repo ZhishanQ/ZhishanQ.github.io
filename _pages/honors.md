@@ -6,6 +6,7 @@ author_profile: true
 
 ## Scholarships (selected)
 
+* **Southeast University Alumni Scholarship**, China, *Oct. 2023*
 * **University-level first-class scholarship**, China, *Oct. 2020*
 * **National Encouragement Scholarship**, China, *Oct. 2019*
 
