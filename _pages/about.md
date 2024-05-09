@@ -44,6 +44,8 @@ Hefei University , *09/2017 - 06/2022*
 
 * Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen, and **Dehai Min**. [HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](https://arxiv.org/abs/2403.19723) (preprint 2024.03).
 
+## Services
+**Reviewer:** ISWC 2024
 
 ## Competitions
 ( I was an active participant in programming competitions during my undergraduate years. )
