@@ -14,6 +14,7 @@ My research areas include Natural Language Processing (NLP) and Knowledge Graphs
 
 <span style="color:red">**I am currently seeking Ph.D. positions for Fall 2025 admission. If you are interested in my profile, please feel free to [email me](mailto:dmin0007@student.monash.edu).**</span>
 
+It is worth emphasizing that I would be willing to change my research topic in the early stages of my PhD based on the guidance of my advisor and the focus of the group or lab, and then commit to excelling in it.
 
 ## Education
 
