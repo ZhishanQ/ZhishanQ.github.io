@@ -9,12 +9,10 @@ redirect_from:
 
 I am a second-year Master student at the Joint Graduate School (Double degree) of Southeast University and Monash University. My graduate advisor is Professor [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. I expect to receive a Master by research degree from Southeast University and a Master by course degree from Monash University in June 2025. 
 
-My research areas include Natural Language Processing (NLP) and Knowledge Graphs (KG). Currently, my main research focus is on enhancing the performance of LLMs using hybrid data (such as graphs and tables), comprehensively evaluating the performance of LLMs in question-answering tasks, and understanding and processing tabular data with LLMs. Additionally, I am also highly interested in multimodal (vision, language, and speech) large models.
-
+My research areas include Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG) and Knowledge Graphs (KG). Currently, my main research focus is on enhancing the performance of LLMs using heterogeneous data (text, graphs and tables). Additionally, I am also highly interested in multimodal (vision-language) models.
 
 <span style="color:red">**I am currently seeking Ph.D. positions for Fall 2025 admission. If you are interested in my profile, please feel free to [email me](mailto:dmin0007@student.monash.edu).**</span>
 
-It is worth emphasizing that I would be willing to change my research topic in the early stages of my PhD based on the guidance of my advisor and the focus of the group or lab, and then commit to excelling in it.
 
 ## Education
 
