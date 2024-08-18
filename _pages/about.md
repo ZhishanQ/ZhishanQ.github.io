@@ -18,7 +18,7 @@ My research areas include Natural Language Processing (NLP), Retrieval-Augmented
 
 Southeast University , *09/2022 - present*
 
-* M.S. in Artificial Intelligence. Advisor: [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en)
+* Mphil. in Artificial Intelligence. Advisor: [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en)
 
 Monash University , *09/2022 - present*
 
@@ -48,6 +48,11 @@ Hefei University , *09/2017 - 06/2022*
 ### Work in progress 
 * Yiming Tan\*, **Dehai Min**\*, Huikang Hu, Nuo Lin, Guilin Qi, Sheng Bi et al. ELLMKGQA: Evaluation Framework of Large-language Model as Knowledge Graph on
 Question-Answering (submitted, under review).
+
+## INTERNSHIP
+Stony Brook University , *07/2024 - Present*
+
+* Research Intern, remote , Mentor: [Chenyu You](https://chenyuyou.me/index.html)
 
 ## Services
 **Reviewer:** ISWC 2024
