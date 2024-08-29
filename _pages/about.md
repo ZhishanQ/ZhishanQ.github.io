@@ -49,12 +49,12 @@ Hefei University , *09/2017 - 06/2022*
 * Yiming Tan\*, **Dehai Min**\*, Huikang Hu, Nuo Lin, Guilin Qi, Sheng Bi et al. ELLMKGQA: Evaluation Framework of Large-language Model as Knowledge Graph on
 Question-Answering (submitted, under review).
 
-## INTERNSHIP
+## Internship
 Stony Brook University , *07/2024 - Present*
 
 * Research Intern, remote , Mentor: [Chenyu You](https://chenyuyou.me/index.html)
 
-## Services
+## Academic services
 **Reviewer:** ISWC 2024
 
 ## Competitions
