@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Third-year Master student at the Joint Graduate School (Double degree) of Southeast University and Monash University. My graduate advisor is Professor [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. I expect to receive a Master by research degree from Southeast University and a Master by course degree from Monash University in June 2025. 
+I am a Third-year Master student at the Joint Graduate School (Double degree) of Southeast University and Monash University, advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. I’m currently working with Prof. [Chenyu You](https://chenyuyou.me/) on building unified retrievers for heterogeneous information.
 
 My research areas include Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG) and Knowledge Graphs (KG). Currently, my main research focus is on enhancing the performance of LLMs using heterogeneous data (text, graphs and tables). Additionally, I am also highly interested in multimodal (vision-language) models.
 
@@ -16,11 +16,11 @@ My research areas include Natural Language Processing (NLP), Retrieval-Augmented
 
 ## 🎓 Education
 
-Southeast University , *09/2022 - present*
+Southeast University , *09/2022 - 2025.06 (expected)*
 
 * Mphil. in Artificial Intelligence. Advisor: [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en)
 
-Monash University , *09/2022 - present*
+Monash University , *09/2022 - 2025.06 (expected)*
 
 * M.S. in Artificial Intelligence.
 
@@ -29,10 +29,13 @@ Hefei University , *09/2017 - 06/2022*
 * B.S. in Electronic and Information Engineering
 
 
-## 📝 Publications 
+## 📝 Publications and Preprints
 (* Refers to the authors having the equal contribution, and should be considered as co-first authors.)
 
 * **Dehai Min**\*, Nan Hu\*, Rihui Jin, Nuo Lin, Jiaoyan Chen, Yongrui Chen, Yu Li et al. [Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data](https://arxiv.org/abs/2402.12869) (NAACL 2024, industry track paper, Oral), [Slides](https://zhishanq.github.io/files/Oral_for_NAACL_2024.pdf).
+
+* **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) (preprinted 2024.10), [Code](https://github.com/ZhishanQ/UniHGKR)
+
 
 * Yiming Tan\*, **Dehai Min**\*, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen, and Guilin Qi. [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) (ISWC 2023, long paper, Oral) , [Code](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family) ,[Slides](https://zhishanq.github.io/files/ISWC2023-oral_new.pdf)
 
@@ -42,7 +45,7 @@ Hefei University , *09/2017 - 06/2022*
 
 * Yu Li, Shenyu Zhang, Rui Wu, Xiutian Huang, Yongrui Chen, Wenhao Xu, Guilin Qi, and **Dehai Min**. [MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation](https://arxiv.org/abs/2403.19305) (DASFAA 2024)
 
-* Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen, and **Dehai Min**. [HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](https://arxiv.org/abs/2403.19723) (preprint 2024.03).
+* Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen, and **Dehai Min**. [HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](https://arxiv.org/abs/2403.19723) (preprinted 2024.03).
 
 
 ### Work in progress 
