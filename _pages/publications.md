@@ -15,6 +15,8 @@ author_profile: true
 ### 2024
 * **Dehai Min**\*, Nan Hu\*, Rihui Jin, Nuo Lin, Jiaoyan Chen, Yongrui Chen, Yu Li et al. [Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data](https://arxiv.org/abs/2402.12869) (NAACL 2024).
 
+* **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, and Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) (preprinted 2024.10), [Code](https://github.com/ZhishanQ/UniHGKR)
+
 * Yu Li, Shenyu Zhang, Rui Wu, Xiutian Huang, Yongrui Chen, Wenhao Xu, Guilin Qi, and **Dehai Min**. [MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation](https://arxiv.org/abs/2403.19305) (DASFAA 2024)
 
 * Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen, and **Dehai Min**. [HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](https://arxiv.org/abs/2403.19723) (preprint 2024.03).
