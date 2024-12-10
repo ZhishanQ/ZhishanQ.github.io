@@ -45,7 +45,8 @@ Hefei University , *09/2017 - 06/2022*
 
 * Yu Li, Shenyu Zhang, Rui Wu, Xiutian Huang, Yongrui Chen, Wenhao Xu, Guilin Qi, and **Dehai Min**. [MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation](https://arxiv.org/abs/2403.19305) (DASFAA 2024)
 
-* Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen, and **Dehai Min**. [HGT: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](https://arxiv.org/abs/2403.19723) (preprinted 2024.03).
+* Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen,
+**Dehai Min** and Sheng Bi. [HeGTa: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](https://arxiv.org/abs/2403.19723) (Accepted by AAAI 2025).
 
 
 ### Work in progress 
@@ -53,7 +54,7 @@ Hefei University , *09/2017 - 06/2022*
 Question-Answering (submitted, under review).
 
 ## 🧑‍🏫 Internship
-Stony Brook University , *07/2024 - Present*
+Stony Brook University , *07/2024 - 11/2024*
 
 * Research Intern, remote , Advisor: [Chenyu You](https://chenyuyou.me/index.html)
 
