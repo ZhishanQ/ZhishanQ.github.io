@@ -59,7 +59,10 @@ Stony Brook University , *07/2024 - 11/2024*
 * Research Intern, remote , Advisor: [Chenyu You](https://chenyuyou.me/index.html)
 
 ## 👨‍💻 Academic services
-**Reviewer:** ISWC 2024
+
+* Reviewer of IEEE Transactions on Neural Networks and Learning Systems 
+
+* Subreviewer of the International Semantic Web Conference (ISWC 2024)
 
 ## 🏅 Competitions
 ( I was an active participant in programming competitions during my undergraduate years. )
