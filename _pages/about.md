@@ -11,8 +11,12 @@ I am a Third-year Master student at the Joint Graduate School (Double degree) of
 
 My research areas include Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG) and Knowledge Graphs (KG). Currently, my main research focus is on enhancing the performance of LLMs using heterogeneous data (text, graphs and tables). Additionally, I am also highly interested in multimodal (vision-language) models.
 
-<span style="color:red">**I am currently seeking Ph.D. positions for Fall 2025 admission. If you are interested in my profile, please feel free to [email me](mailto:dmin0007@student.monash.edu).**</span>
 
+## 🎉 News
+
+01-2025: One paper ([UniHGKR](https://arxiv.org/abs/2410.20163)) was accepted by NAACL (main) 2025!
+
+01-2025: One paper was accepted by AAAI 2025!
 
 ## 🎓 Education
 
@@ -34,7 +38,7 @@ Hefei University , *09/2017 - 06/2022*
 
 * **Dehai Min**\*, Nan Hu\*, Rihui Jin, Nuo Lin, Jiaoyan Chen, Yongrui Chen, Yu Li et al. [Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data](https://arxiv.org/abs/2402.12869) (NAACL 2024, industry track paper, Oral), [Slides](https://zhishanq.github.io/files/Oral_for_NAACL_2024.pdf).
 
-* **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, and Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) (preprinted 2024.10), [Code](https://github.com/ZhishanQ/UniHGKR)
+* **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, and Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) (NAACL 2025), [Code](https://github.com/ZhishanQ/UniHGKR)
 
 
 * Yiming Tan\*, **Dehai Min**\*, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen, and Guilin Qi. [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) (ISWC 2023, long paper, Oral) , [Code](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family) ,[Slides](https://zhishanq.github.io/files/ISWC2023-oral_new.pdf)
