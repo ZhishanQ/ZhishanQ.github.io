@@ -66,7 +66,7 @@ Stony Brook University , *07/2024 - 11/2024*
 
 ## 👨‍💻 Academic services
 
-* Reviewer of IEEE Transactions on Neural Networks and Learning Systems 
+* Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 * Subreviewer of the International Semantic Web Conference (ISWC 2024)
 
