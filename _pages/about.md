@@ -14,9 +14,9 @@ My research areas include Natural Language Processing (NLP), Retrieval-Augmented
 
 ## 🎉 News
 
-01-2025: One paper ([UniHGKR](https://arxiv.org/abs/2410.20163)) was accepted by NAACL (main) 2025!
+01-2025: One paper ([UniHGKR](https://arxiv.org/abs/2410.20163)) was accepted by NAACL (main) 2025, with a highest meta-review score of 5!
 
-01-2025: One paper was accepted by AAAI 2025!
+12-2024: One paper was accepted by AAAI 2025!
 
 ## 🎓 Education
 
