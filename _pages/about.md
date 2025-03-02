@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Third-year Master student at the Joint Graduate School (Double degree) of Southeast University and Monash University, advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. I’m currently working with Prof. [Chenyu You](https://chenyuyou.me/) on building unified retrievers for heterogeneous information.
+I am a Third-year Master student at the Joint Graduate School (Double degree) of Southeast University and Monash University, advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. Also, I worked as a research intern under the guidance of Prof. [Chenyu You](https://chenyuyou.me/) at Stony Brook University in 2024.
 
 My research areas include Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG) and Knowledge Graphs (KG). Currently, my main research focus is on enhancing the performance of LLMs using heterogeneous data (text, graphs and tables). Additionally, I am also highly interested in multimodal (vision-language) models.
 
 
 ## 🎉 News
+
+02-2025: Served as a reviewer for ACL ARR February 2025.
 
 01-2025: One paper ([UniHGKR](https://arxiv.org/abs/2410.20163)) was accepted by NAACL (main) 2025, with a highest meta-review score of 5!
 
@@ -62,9 +64,11 @@ Question-Answering (submitted, under review).
 ## 🧑‍🏫 Internship
 Stony Brook University , *07/2024 - 11/2024*
 
-* Research Intern, remote , Advisor: [Chenyu You](https://chenyuyou.me/index.html)
+* Research Intern , Advisor: [Chenyu You](https://chenyuyou.me/index.html)
 
 ## 👨‍💻 Academic services
+
+* Reviewer of ACL ARR 2025
 
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
