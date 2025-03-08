@@ -16,7 +16,7 @@ My research areas include Natural Language Processing (NLP), Retrieval-Augmented
 
 02-2025: Served as a reviewer for ACL ARR February 2025.
 
-01-2025: One paper ([UniHGKR](https://arxiv.org/abs/2410.20163)) was accepted by NAACL (main) 2025, with a highest meta-review score of 5!
+01-2025: One paper ([UniHGKR](https://arxiv.org/abs/2410.20163)) was accepted by NAACL (Main) 2025, Oral Paper, with a highest meta-review score of 5!
 
 12-2024: One paper was accepted by AAAI 2025!
 
@@ -39,7 +39,7 @@ Hefei University , *09/2017 - 06/2022*
 (* Refers to the authors having the equal contribution, and should be considered as co-first authors.)
 
 
-* **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, and Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) (NAACL 2025), [Code](https://github.com/ZhishanQ/UniHGKR)
+* **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, and Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) (NAACL 2025, Oral), [Code](https://github.com/ZhishanQ/UniHGKR)
 
 
 * **Dehai Min**\*, Nan Hu\*, Rihui Jin, Nuo Lin, Jiaoyan Chen, Yongrui Chen, Yu Li et al. [Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data](https://arxiv.org/abs/2402.12869) (NAACL 2024, Industry Track paper, Oral), [Slides](https://zhishanq.github.io/files/Oral_for_NAACL_2024.pdf).
