@@ -7,12 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Third-year Master student at the Joint Graduate School (Double degree) of Southeast University and Monash University, advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I received my Bachelor's degree from Hefei University in June 2022. Also, I worked as a research intern under the guidance of Prof. [Chenyu You](https://chenyuyou.me/) at Stony Brook University in 2024.
+I am a Third-year Master student at the Joint Graduate School (Double degree) of Southeast University and Monash University, advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en), and an incoming CS PhD student (25 Fall) at [University of Illinois Chicago (UIC)](https://www.uic.edu/), fortunately supervised by Prof. [Lu Cheng](https://lcheng.org/). Previously, I received my Bachelor's degree from Hefei University in June 2022. Also, I worked as a research intern under the guidance of Prof. [Chenyu You](https://chenyuyou.me/) at Stony Brook University in 2024.
 
-My research areas include Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG) and Knowledge Graphs (KG). Currently, my main research focus is on enhancing the performance of LLMs using heterogeneous data (text, graphs and tables). Additionally, I am also highly interested in multimodal (vision-language) models.
+My research interests lie at:
+
+* Retrieval-Augmented Generation (RAG)
+* LLMs with heterogeneous data (text, graphs and tables)
+* Trustworthy ML: Uncertainty Quantification
 
 
 ## 🎉 News
+
+03-2025: Our new Handbook titled "[Knowledge Graph Question Answering and Large Language Models](https://ebooks.iospress.nl/doi/10.3233/FAIA250220)" has been published.
 
 02-2025: Served as a reviewer for ACL ARR February 2025.
 
