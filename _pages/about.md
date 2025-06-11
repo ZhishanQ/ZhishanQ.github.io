@@ -18,9 +18,9 @@ My research interests lie at:
 
 ## 🎉 News
 
-03-2025: Our new Handbook titled "[Knowledge Graph Question Answering and Large Language Models](https://ebooks.iospress.nl/doi/10.3233/FAIA250220)" has been published.
+05-2025: Served as a reviewer for EMNLP-2025.
 
-02-2025: Served as a reviewer for ACL ARR February 2025.
+02-2025: Served as a reviewer for ACL-2025.
 
 01-2025: One paper ([UniHGKR](https://arxiv.org/abs/2410.20163)) was accepted by NAACL (Main) 2025, Oral Paper, with a highest meta-review score of 5!
 
@@ -28,18 +28,11 @@ My research interests lie at:
 
 ## 🎓 Education
 
-Southeast University , *09/2022 - 2025.06 (expected)*
+Southeast University , M.S. , *09/2022 - 2025.06 (expected)*
 
-* Mphil. in Artificial Intelligence. Advisor: [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en)
+Monash University , M.S. , *09/2022 - 2025.06 (expected)*
 
-Monash University , *09/2022 - 2025.06 (expected)*
-
-* M.S. in Artificial Intelligence.
-
-Hefei University , *09/2017 - 06/2022*
-
-* B.S. in Electronic and Information Engineering
-
+Hefei University , B.S. ,  *09/2017 - 06/2022*
 
 ## 📝 Publications and Preprints
 (* Refers to the authors having the equal contribution, and should be considered as co-first authors.)
@@ -74,7 +67,7 @@ Stony Brook University , *07/2024 - 11/2024*
 
 ## 👨‍💻 Academic services
 
-* Reviewer of ACL ARR 2025
+* Reviewer of ACL-2025, EMNLP-2025
 
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
