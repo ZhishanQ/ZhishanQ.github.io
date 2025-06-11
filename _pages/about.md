@@ -13,7 +13,7 @@ My research interests lie at:
 
 * Retrieval-Augmented Generation (RAG)
 * LLMs with heterogeneous data (text, graphs and tables)
-* Trustworthy ML: Uncertainty Quantification
+* Trustworthy ML: Uncertainty Quantification.
 
 
 ## 🎉 News
