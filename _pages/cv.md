@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-**My continuously updated PDF resume/CV can be found at [link](https://zhishanq.github.io/files/DehaiMin_CV.pdf).**
+
 
 
 
