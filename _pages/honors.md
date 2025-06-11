@@ -9,7 +9,6 @@ author_profile: true
 * **Southeast University Xiaomi Scholarship (1/98)**, China, *Nov. 2024*
 * **Southeast University Alumni Scholarship (Top 1%)**, China, *Oct. 2023*
 * **University-level first-class scholarship**, China, *Oct. 2020*
-* **National Encouragement Scholarship**, China, *Oct. 2019*
 
 
 ## Competitions
