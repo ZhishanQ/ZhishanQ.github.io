@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Third-year Master student at the Joint Graduate School (Double degree) of Southeast University and Monash University, advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en), and an incoming CS PhD student (25 Fall) at [University of Illinois Chicago (UIC)](https://www.uic.edu/), fortunately supervised by Prof. [Lu Cheng](https://lcheng.org/). Previously, I received my Bachelor's degree from Hefei University in June 2022. Also, I worked as a research intern under the guidance of Prof. [Chenyu You](https://chenyuyou.me/) at Stony Brook University in 2024.
+I am an incoming CS PhD student (Fall 2025) at [University of Illinois Chicago (UIC)](https://www.uic.edu/), fortunately supervised by Prof. [Lu Cheng](https://lcheng.org/). Previously, I received my master's degrees from Southeast University and Monash University (Double degree program), advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I also received my Bachelor's degree from Hefei University in June 2022. Additionally, I worked as a research intern under the guidance of Prof. [Chenyu You](https://chenyuyou.me/) at Stony Brook University in 2024.
 
 My research interests lie at:
 
@@ -22,15 +22,17 @@ My research interests lie at:
 
 02-2025: Served as a reviewer for ACL-2025.
 
-01-2025: One paper ([UniHGKR](https://arxiv.org/abs/2410.20163)) was accepted by NAACL (Main) 2025, Oral Paper, with a highest meta-review score of 5!
+01-2025: One paper ([UniHGKR](https://arxiv.org/abs/2410.20163)) was accepted by NAACL (Main) 2025, Oral Paper, with the highest meta-review score of 5!
 
 12-2024: One paper was accepted by AAAI 2025!
 
 ## 🎓 Education
 
-Southeast University , M.S. , *09/2022 - 2025.06 (expected)*
+University of Illinois Chicago , Ph.D. , *08/2025 - present*
 
-Monash University , M.S. , *09/2022 - 2025.06 (expected)*
+Southeast University , M.S. , *09/2022 - 2025.06*
+
+Monash University , M.S. , *09/2022 - 2025.06*
 
 Hefei University , B.S. ,  *09/2017 - 06/2022*
 
@@ -56,9 +58,6 @@ Hefei University , B.S. ,  *09/2017 - 06/2022*
 **Dehai Min** and Sheng Bi. [HeGTa: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](https://arxiv.org/abs/2403.19723) (AAAI 2025).
 
 
-### Work in progress 
-* Yiming Tan\*, **Dehai Min**\*, Huikang Hu, Nuo Lin, Guilin Qi, Sheng Bi et al. ELLMKGQA: Evaluation Framework of Large-language Model as Knowledge Graph on
-Question-Answering (submitted, under review).
 
 ## 🧑‍🏫 Internship
 Stony Brook University , *07/2024 - 11/2024*
