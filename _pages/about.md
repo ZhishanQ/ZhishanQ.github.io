@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming CS PhD student (Fall 2025) at [University of Illinois Chicago (UIC)](https://www.uic.edu/), fortunately supervised by Prof. [Lu Cheng](https://lcheng.org/). Previously, I received my master's degrees from Southeast University and Monash University (Double degree program), advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I also received my Bachelor's degree from Hefei University in June 2022. Additionally, I worked as a research intern under the guidance of Prof. [Chenyu You](https://chenyuyou.me/) at Stony Brook University in 2024.
+I am currently a first-year CS Ph.D. student (Aug.2025-) at [University of Illinois Chicago (UIC)](https://www.uic.edu/), fortunately supervised by Prof. [Lu Cheng](https://lcheng.org/). Previously, I received my master's degrees from Southeast University and Monash University (Double degree program), advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en). I also received my Bachelor's degree from Hefei University in June 2022. Additionally, I worked as a research intern under the guidance of Prof. [Chenyu You](https://chenyuyou.me/) at Stony Brook University in 2024.
 
 My research interests lie at:
 
