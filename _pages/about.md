@@ -11,16 +11,18 @@ I am currently a first-year CS Ph.D. student (Aug.2025-) at [University of Illin
 
 My research interests lie at:
 
-* Retrieval-Augmented Generation (RAG)
+* Retrieval-Augmented Generation (RAG) & Deep Research
+* Trustworthy LLM: Uncertainty Quantification
 * LLMs with heterogeneous data (text, graphs and tables)
-* Trustworthy ML: Uncertainty Quantification.
 
 
 ## 🎉 News
 
+12-2025: Our new paper was released: `QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation` [[📖preprint]](https://arxiv.org/abs/2512.19134), [[📦 Code]](https://github.com/ZhishanQ/QuCo-RAG).
+
 12-2025: selected as an “Outstanding Reviewer of 2024–2025” for IEEE TNNLS! [[📦 Certificate]](https://zhishanq.github.io/files/TNNLS_Outstanding_reviewer_Dehai_Min.pdf).
 
-12-2025: Our new paper was released: MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs, [📖preprint](https://arxiv.org/abs/2511.14159), [[📦 Code]](https://github.com/chenyil6/MVI-Bench).
+12-2025: Our new paper was released: MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs, [[📖preprint]](https://arxiv.org/abs/2511.14159), [[📦 Code]](https://github.com/chenyil6/MVI-Bench).
 
 08-2025: Moved to Chicago 🇺🇸.
 
