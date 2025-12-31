@@ -18,7 +18,7 @@ My research interests lie at:
 
 ## 🎉 News
 
-12-2025: Our new paper was released: `QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation` [[📖preprint]](https://arxiv.org/abs/2512.19134), [[📦 Code]](https://github.com/ZhishanQ/QuCo-RAG).
+12-2025: Our new paper was released: `QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation` [[📖preprint]](https://arxiv.org/abs/2512.19134), [[📦 Code]](https://github.com/ZhishanQ/QuCo-RAG), Covered by [[🔥新智元]](https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA).
 
 12-2025: selected as an “Outstanding Reviewer of 2024–2025” for IEEE TNNLS! [[📦 Certificate]](https://zhishanq.github.io/files/TNNLS_Outstanding_reviewer_Dehai_Min.pdf).
 
