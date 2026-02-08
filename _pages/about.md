@@ -1,22 +1,28 @@
 ---
 permalink: /
-title: "About me"
-author_profile: true
+title: " "
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi there! 👋 I am a first-year CS Ph.D. student (Aug. 2025–) at [University of Illinois Chicago (UIC)](https://www.uic.edu/), advised by Prof. [Lu Cheng](https://lcheng.org/). I received my M.S. from Southeast University, advised by Prof. [Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en), and my B.S. from Hefei University. I was also a research intern at Stony Brook University in 2024, working with Prof. [Chenyu You](https://chenyuyou.me/).
-
-My current research interests include:
-
-* Retrieval-Augmented Generation (RAG) & Deep Research
-* Trustworthy LLMs: Uncertainty Quantification
-
-Previously, during my master's studies, I worked on:
-
-* LLMs with heterogeneous data (text, graphs, and tables)
+<div class="profile-header">
+  <div class="profile-text">
+    <h1>Dehai Min &nbsp; 闵德海</h1>
+    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://lcheng.org/">Lu Cheng</a>. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I was also a research intern at Stony Brook University in 2024, working with Prof. <a href="https://chenyuyou.me/">Chenyu You</a>.</p>
+    <p>My current research interests include <strong>Retrieval-Augmented Generation (RAG) & Deep Research</strong> and <strong>Trustworthy LLMs: Uncertainty Quantification</strong>. Previously, during my master's studies, I worked on LLMs with heterogeneous data (text, graphs, and tables).</p>
+    <div class="profile-links">
+      <a href="mailto:dmin10@uic.edu">📧 Email</a> /
+      <a href="https://scholar.google.com/citations?user=lVn0bHUAAAAJ">🎓 Google Scholar</a> /
+      <a href="https://github.com/ZhishanQ">😺 Github</a> /
+      <a href="https://twitter.com/qiezimin">🐦 Twitter</a>
+    </div>
+  </div>
+  <div class="profile-photo">
+    <img src="../images/Blue_high.png" alt="Dehai Min">
+  </div>
+</div>
 
 
 ## 🎉 News
