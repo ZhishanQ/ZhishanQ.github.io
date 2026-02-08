@@ -16,7 +16,8 @@ redirect_from:
       <a href="mailto:dmin10@uic.edu">📧 Email</a> /
       <a href="https://scholar.google.com/citations?user=lVn0bHUAAAAJ">🎓 Google Scholar</a> /
       <a href="https://github.com/ZhishanQ">😺 Github</a> /
-      <a href="https://twitter.com/qiezimin">🐦 Twitter</a>
+      <a href="https://twitter.com/qiezimin">🐦 Twitter</a> /
+      <a href="https://www.linkedin.com/in/dehai-min-b2822829b/">💼 LinkedIn</a>
     </div>
   </div>
   <div class="profile-photo">
@@ -28,9 +29,9 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
-  <li><span class="news-date">[2025.12]</span> New paper released: <em>QuCo-RAG</em> — Quantifying Uncertainty from the Pre-training Corpus for Dynamic RAG. <a href="https://arxiv.org/abs/2512.19134">📄 Paper</a> / <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> / Covered by <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA">🔥 新智元</a>.</li>
+  <li><span class="news-date">[2025.12]</span> New paper released: <strong><em>QuCo-RAG</em></strong> — Quantifying Uncertainty from the Pre-training Corpus for Dynamic RAG. <a href="https://arxiv.org/abs/2512.19134">📄 Paper</a> / <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> / Covered by <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA">🔥 新智元</a>.</li>
   <li><span class="news-date">[2025.12]</span> Selected as <strong>Outstanding Reviewer of 2024–2025</strong> for IEEE TNNLS! <a href="https://zhishanq.github.io/files/TNNLS_Outstanding_reviewer_Dehai_Min.pdf">📦 Certificate</a></li>
-  <li><span class="news-date">[2025.12]</span> New paper released: <em>MVI-Bench</em> — Evaluating Robustness to Misleading Visual Inputs in LVLMs. <a href="https://arxiv.org/abs/2511.14159">📄 Paper</a> / <a href="https://github.com/chenyil6/MVI-Bench">📦 Code</a></li>
+  <li><span class="news-date">[2025.12]</span> New paper released: <strong><em>MVI-Bench</em></strong> — Evaluating Robustness to Misleading Visual Inputs in LVLMs. <a href="https://arxiv.org/abs/2511.14159">📄 Paper</a> / <a href="https://github.com/chenyil6/MVI-Bench">📦 Code</a></li>
   <li><span class="news-date">[2025.08]</span> Moved to Chicago 🇺🇸.</li>
   <li><span class="news-date">[2025.01]</span> 🎉 One paper (<a href="https://arxiv.org/abs/2410.20163">UniHGKR</a>) accepted by <strong>NAACL 2025</strong> as <strong>Oral</strong>, with the highest meta-review score of 5! <a href="https://github.com/ZhishanQ/UniHGKR">📦 Code</a> / <a href="https://huggingface.co/collections/ZhishanQ/unihgkr-6846b60973fa75b04681a388">🤗 Models & Datasets</a></li>
   <li><span class="news-date">[2024.12]</span> One paper accepted by <strong>AAAI 2025</strong>!</li>
@@ -39,17 +40,17 @@ redirect_from:
 ## 🎓 Education
 
 <div class="edu-row">
-  <img src="../images/UIC_logo.svg" width="29" style="vertical-align: middle;">
+  <img src="../images/UIC_logo.svg" width="36" style="vertical-align: middle;">
   <div class="edu-info"><strong>University of Illinois Chicago</strong> , Ph.D. , <em>08/2025 - present</em></div>
 </div>
 
 <div class="edu-row">
-  <img src="../images/seu-logo.png" width="29" style="vertical-align: middle;">
+  <img src="../images/seu-logo.png" width="36" style="vertical-align: middle;">
   <div class="edu-info"><strong>Southeast University</strong> , M.S. , <em>09/2022 - 06/2025</em></div>
 </div>
 
 <div class="edu-row">
-  <img src="../images/HFU_logo.png" width="29" style="vertical-align: middle;">
+  <img src="../images/HFU_logo.png" width="36" style="vertical-align: middle;">
   <div class="edu-info"><strong>Hefei University</strong> , B.S. , <em>09/2017 - 06/2022</em></div>
 </div>
 
@@ -61,7 +62,7 @@ redirect_from:
 ### First-author Publications
 
 * **Dehai Min**, Kailin Zhang, Tongtong Wu, Lu Cheng. [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134) <span class="venue venue-review"> Under Review</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2512.19134) / [📦 Code](https://github.com/ZhishanQ/QuCo-RAG) <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / [🔥 Media Coverage](https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA)</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2512.19134) / [📦 Code](https://github.com/ZhishanQ/QuCo-RAG) <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / [![WeChat-新智元](https://img.shields.io/badge/WeChat-新智元-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA)</span>
 
 * **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, and Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) <span class="venue venue-oral">NAACL 2025, Oral</span> Highest Meta-Review Score: 5
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2410.20163) / [📦 Code](https://github.com/ZhishanQ/UniHGKR) <img src="https://img.shields.io/github/stars/ZhishanQ/UniHGKR?style=social&label=Stars"> / [🤗 Models & Datasets](https://huggingface.co/collections/ZhishanQ/unihgkr-6846b60973fa75b04681a388)</span>
