@@ -30,6 +30,7 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.02]</span> New paper on latent reasoning: <strong><em>Latent Thoughts Tuning</em></strong> — Bridging Context and Reasoning with Fused Information in Latent Tokens. <a href="https://arxiv.org/abs/2602.10229">📄 Paper</a> / <a href="https://github.com/NeosKnight233/Latent-Thoughts-Tuning">📦 Code</a></li>
   <li><span class="news-date">[2025.12]</span> New paper released: <strong><em>QuCo-RAG</em></strong> — Quantifying Uncertainty from the Pre-training Corpus for Dynamic RAG. <a href="https://arxiv.org/abs/2512.19134">📄 Paper</a> / <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> / Covered by <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA">🔥 新智元</a>.</li>
   <li><span class="news-date">[2025.12]</span> Selected as <strong>Outstanding Reviewer of 2024–2025</strong> for IEEE TNNLS! <a href="https://zhishanq.github.io/files/TNNLS_Outstanding_reviewer_Dehai_Min.pdf">📦 Certificate</a></li>
   <li><span class="news-date">[2025.12]</span> New paper released: <strong><em>MVI-Bench</em></strong> — Evaluating Robustness to Misleading Visual Inputs in LVLMs. <a href="https://arxiv.org/abs/2511.14159">📄 Paper</a> / <a href="https://github.com/chenyil6/MVI-Bench">📦 Code</a></li>
@@ -75,6 +76,9 @@ redirect_from:
 <br><span class="pub-links">[📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) / [📦 Code](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family) <img src="https://img.shields.io/github/stars/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family?style=social&label=Stars"> / [🎤 Slides](https://zhishanq.github.io/files/ISWC2023-oral_new.pdf)</span>
 
 ### Collaborative Publications
+
+* Weihao Liu, **Dehai Min**, Lu Cheng. [Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](https://arxiv.org/abs/2602.10229) <span class="venue venue-review">Under Review</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2602.10229) / [📦 Code](https://github.com/NeosKnight233/Latent-Thoughts-Tuning) <img src="https://img.shields.io/github/stars/NeosKnight233/Latent-Thoughts-Tuning?style=social&label=Stars"></span>
 
 * Mingyang Wei, **Dehai Min**, Zewen Liu, Yuzhang Xie, Guanchen Wu, Carl Yang, Max S.Y. Lau, Qi He, Lu Cheng, Wei Jin. [EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning](https://arxiv.org/abs/2601.03471) <span class="venue venue-review">Under Review</span>
 
