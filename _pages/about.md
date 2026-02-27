@@ -59,7 +59,7 @@ redirect_from:
 ## 📝 Publications and Preprints
 (\* denotes equal contribution.)
 
-<img src="https://img.shields.io/badge/citations-311-blue?style=flat-square&logo=google-scholar"> <img src="https://img.shields.io/badge/h--index-6-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/i10--index-5-orange?style=flat-square">
+<img src="https://img.shields.io/badge/citations-339-blue?style=flat-square&logo=google-scholar"> <img src="https://img.shields.io/badge/h--index-7-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/i10--index-5-orange?style=flat-square">
 
 ### First-author Publications
 
