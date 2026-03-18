@@ -26,6 +26,9 @@ redirect_from:
   <a href="https://zhishanq.github.io/files/DehaiMin_CV.pdf">📄 CV</a>
 </div>
 
+<p style="margin-top: 10px; font-style: italic; color: #8B0000;">
+I am always open to internship opportunities and research collaborations — feel free to reach out!
+</p>
 
 ## 🎉 News
 
