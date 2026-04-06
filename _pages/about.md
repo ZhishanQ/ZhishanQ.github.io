@@ -33,8 +33,8 @@ I am always open to internship opportunities and research collaborations — fee
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.04]</span> One paper (<strong><em>QuCo-RAG</em></strong>) accepted by <strong>ACL Findings 2026</strong>! <a href="https://arxiv.org/abs/2512.19134">📄 Paper</a> / <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> / Covered by <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA">🔥 新智元</a>. Thanks to Dr. <a href="https://lcheng.org/">Cheng</a> for her guidance!</li>
   <li><span class="news-date">[2026.02]</span> New paper on latent reasoning: <strong><em>Latent Thoughts Tuning</em></strong> — Bridging Context and Reasoning with Fused Information in Latent Tokens. <a href="https://arxiv.org/abs/2602.10229">📄 Paper</a> / <a href="https://github.com/NeosKnight233/Latent-Thoughts-Tuning">📦 Code</a></li>
-  <li><span class="news-date">[2025.12]</span> New paper released: <strong><em>QuCo-RAG</em></strong> — Quantifying Uncertainty from the Pre-training Corpus for Dynamic RAG. <a href="https://arxiv.org/abs/2512.19134">📄 Paper</a> / <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> / Covered by <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA">🔥 新智元</a>.</li>
   <li><span class="news-date">[2025.12]</span> Selected as <strong>Outstanding Reviewer of 2024–2025</strong> for IEEE TNNLS! <a href="https://zhishanq.github.io/files/TNNLS_Outstanding_reviewer_Dehai_Min.pdf">📦 Certificate</a></li>
   <li><span class="news-date">[2025.12]</span> New paper released: <strong><em>MVI-Bench</em></strong> — Evaluating Robustness to Misleading Visual Inputs in LVLMs. <a href="https://arxiv.org/abs/2511.14159">📄 Paper</a> / <a href="https://github.com/chenyil6/MVI-Bench">📦 Code</a></li>
   <li><span class="news-date">[2025.08]</span> Moved to Chicago 🇺🇸.</li>
@@ -66,7 +66,7 @@ I am always open to internship opportunities and research collaborations — fee
 
 ### First-author Publications
 
-* **Dehai Min**, Kailin Zhang, Tongtong Wu, Lu Cheng. [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134) <span class="venue venue-review"> Under Review</span>
+* **Dehai Min**, Kailin Zhang, Tongtong Wu, Lu Cheng. [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134) <span class="venue venue-accept"> ACL Findings 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2512.19134) / [📦 Code](https://github.com/ZhishanQ/QuCo-RAG) <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / [![WeChat-新智元](https://img.shields.io/badge/WeChat-新智元-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA)</span>
 
 * **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, and Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) <span class="venue venue-oral">NAACL 2025, Oral</span> Highest Meta-Review Score: 5
