@@ -31,24 +31,45 @@
 
 <!-- Custom styles for homepage -->
 <style>
-/* Smaller base font to match typical academic homepages */
-html { font-size: 14px; }
+/* Base font — scale up on larger screens for readability */
+html { font-size: 15px; }
+@media (min-width: 900px)  { html { font-size: 16px; } }
+@media (min-width: 1400px) { html { font-size: 17px; } }
+@media (min-width: 1800px) { html { font-size: 18px; } }
+
+/* Widen content area on large monitors (Minimal Mistakes .page) */
+@media (min-width: 1280px) {
+  .page { max-width: 1180px !important; padding-right: 2em !important; }
+}
+@media (min-width: 1600px) {
+  .page { max-width: 1360px !important; }
+}
+@media (min-width: 2000px) {
+  .page { max-width: 1500px !important; }
+}
+
+/* Comfortable line length and spacing */
+.page__content { line-height: 1.7; }
+.page__content p { margin-bottom: 1em; }
+.page__content h2 { margin-top: 1.6em; margin-bottom: 0.6em; }
+.page__content h3 { margin-top: 1.2em; margin-bottom: 0.5em; }
 
 /* Profile header */
 .profile-header { display: flex; gap: 30px; align-items: flex-start; margin-bottom: 20px; }
 .profile-photo { flex-shrink: 0; }
-.profile-photo img { width: 180px; border-radius: 12px; }
-.profile-text { flex: 1; }
-.profile-text h1 { margin-top: 0; margin-bottom: 8px; font-size: 1.8em; }
+.profile-photo img { width: 200px; border-radius: 12px; }
+.profile-text { flex: 1; min-width: 0; }
+.profile-text h1 { margin-top: 0; margin-bottom: 8px; font-size: 2em; }
 .profile-links { margin-top: 10px; }
 .profile-links a { margin-right: 12px; text-decoration: none; }
 @media (max-width: 600px) {
-  .profile-header { flex-direction: column; align-items: center; text-align: center; }
-  .profile-photo img { width: 140px; }
+  .profile-header { flex-direction: column; align-items: center; text-align: center; gap: 16px; }
+  .profile-photo img { width: 150px; }
+  .profile-text h1 { font-size: 1.6em; }
 }
 
 /* Venue tags */
-.venue { display: inline-block; padding: 1px 6px; border-radius: 4px; font-size: 0.85em; font-weight: 600; }
+.venue { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 600; white-space: nowrap; }
 .venue-pub { background: #d4edda; color: #155724; }
 .venue-oral { background: #fff3cd; color: #856404; }
 .venue-review { background: #cce5ff; color: #004085; }
@@ -58,13 +79,16 @@ html { font-size: 14px; }
 
 /* News list */
 .news-list { list-style: none; padding-left: 0; }
-.news-list li { margin-bottom: 8px; padding-left: 0; line-height: 1.6; }
+.news-list li { margin-bottom: 10px; padding-left: 0; line-height: 1.65; }
 .news-date { font-weight: 700; color: #494e52; margin-right: 4px; }
 
 /* Education & Internship rows */
-.edu-row { display: flex; align-items: center; margin-bottom: 10px; gap: 8px; }
+.edu-row { display: flex; align-items: center; margin-bottom: 12px; gap: 10px; flex-wrap: wrap; }
 .edu-row img { flex-shrink: 0; }
-.edu-info { line-height: 1.5; }
+.edu-info { line-height: 1.5; flex: 1; min-width: 200px; }
+
+/* Prevent overflow on small screens */
+.page__content img { max-width: 100%; height: auto; }
 </style>
 
 <!-- end custom head snippets -->
