@@ -10,7 +10,7 @@ redirect_from:
 <div class="profile-header">
   <div class="profile-text">
     <h1>Dehai Min &nbsp; 闵德海</h1>
-    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://lcheng.org/">Lu Cheng</a>. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I was also a research intern at Stony Brook University in 2024, working with Prof. <a href="https://chenyuyou.me/">Chenyu You</a>.</p>
+    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://lcheng.org/">Lu Cheng</a>. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
     <p>My current research interests include <strong>Retrieval-Augmented Generation (RAG) & Deep Research</strong> and <strong>Trustworthy LLMs: Uncertainty Quantification</strong>. Previously, during my master's studies, I worked on LLMs with heterogeneous data (text, graphs, and tables).</p>
   </div>
   <div class="profile-photo">
@@ -59,6 +59,13 @@ I am always open to internship opportunities and research collaborations — fee
   <div class="edu-info"><strong>Hefei University</strong> , B.S. , <em>09/2017 - 06/2022</em></div>
 </div>
 
+## 🧑‍🏫 Internship
+
+<div class="edu-row">
+  <img src="../images/ByteDance_logo.svg" width="80" style="vertical-align: middle;">
+  <div class="edu-info">ByteDance (TikTok) , <em>05/2026 - 08/2026 (expected)</em><br>Research Scientist Intern</div>
+</div>
+
 ## 📝 Publications and Preprints
 (\* denotes equal contribution.)
 
@@ -66,7 +73,7 @@ I am always open to internship opportunities and research collaborations — fee
 
 ### First-author Publications
 
-* **Dehai Min**, Kailin Zhang, Tongtong Wu, Lu Cheng. [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134) <span class="venue venue-accept"> ACL Findings 2026</span>
+* **Dehai Min**, Kailin Zhang, Tongtong Wu, Lu Cheng. [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134) <span class="venue venue-pub">ACL Findings 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2512.19134) / [📦 Code](https://github.com/ZhishanQ/QuCo-RAG) <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / [![WeChat-新智元](https://img.shields.io/badge/WeChat-新智元-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA)</span>
 
 * **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, and Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) <span class="venue venue-oral">NAACL 2025, Oral</span> Highest Meta-Review Score: 5
@@ -97,12 +104,6 @@ I am always open to internship opportunities and research collaborations — fee
 
 * Jiaqi Li, Chuanyi Zhang, Miaozeng Du, **Dehai Min**, Yongrui Chen, and Guilin Qi. [Three stream based multi-level event contrastive learning for text-video event extraction](https://aclanthology.org/2023.emnlp-main.103/) <span class="venue venue-oral">EMNLP 2023, Oral</span>
 <br><span class="pub-links">[🎤 Slides](https://zhishanq.github.io/files/EMNLP_2023_oral.pdf)</span>
-
-## 🧑‍🏫 Internship
-
-<div class="edu-row">
-  <div class="edu-info">Stony Brook University , <em>07/2024 - 11/2024</em><br>Research Intern , Advisor: <a href="https://chenyuyou.me/index.html">Chenyu You</a></div>
-</div>
 
 ## 👨‍💻 Academic Services
 
