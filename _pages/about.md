@@ -69,7 +69,7 @@ I am always open to internship opportunities and research collaborations — fee
 ## 📝 Publications and Preprints
 (\* denotes equal contribution.)
 
-<img src="https://img.shields.io/badge/citations-347-blue?style=flat-square&logo=google-scholar"> <img src="https://img.shields.io/badge/h--index-7-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/i10--index-5-orange?style=flat-square">
+<img src="https://img.shields.io/badge/citations-360-blue?style=flat-square&logo=google-scholar"> <img src="https://img.shields.io/badge/h--index-7-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/i10--index-5-orange?style=flat-square">
 
 ### First-author Publications
 
