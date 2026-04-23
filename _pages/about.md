@@ -63,7 +63,7 @@ I am always open to internship opportunities and research collaborations — fee
 
 <div class="edu-row">
   <img src="../images/ByteDance_logo.svg" width="80" style="vertical-align: middle;">
-  <div class="edu-info">ByteDance (TikTok) , <em>05/2026 - 08/2026 (expected)</em><br>Research Scientist Intern</div>
+  <div class="edu-info">ByteDance (TikTok) , <em>05/2026 - 08/2026 (expected)</em><br>Research Scientist Intern , San Jose, California</div>
 </div>
 
 ## 📝 Publications and Preprints
