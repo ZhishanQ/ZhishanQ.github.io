@@ -10,7 +10,7 @@ redirect_from:
 <div class="profile-header">
   <div class="profile-text">
     <h1>Dehai Min &nbsp; 闵德海</h1>
-    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://lcheng.org/">Lu Cheng</a>. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
+    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://lcheng.org/">Lu Cheng</a> from Pennsylvania State University and Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
     <p>My current research interests include <strong>Retrieval-Augmented Generation (RAG) & Deep Research</strong> and <strong>Trustworthy LLMs: Uncertainty Quantification</strong>. Previously, during my master's studies, I worked on LLMs with heterogeneous data (text, graphs, and tables).</p>
   </div>
   <div class="profile-photo">
