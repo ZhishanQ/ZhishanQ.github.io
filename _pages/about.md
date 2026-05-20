@@ -33,6 +33,8 @@ I am always open to internship opportunities and research collaborations — fee
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.05]</span> Moved to San Jose, CA 🌉 to start as a <strong>Research Scientist Intern @ ByteDance</strong>, working with the Doubao Agent Team at AML / Volcano Engine-Ark.</li>
+  <li><span class="news-date">[2026.05]</span> Two papers (<strong><em>Latent Thoughts Tuning</em></strong> & <strong><em>MVI-Bench</em></strong>) accepted by <strong>ICML 2026</strong>! 🎉</li>
   <li><span class="news-date">[2026.04]</span> One paper (<strong><em>QuCo-RAG</em></strong>) accepted by <strong>ACL Findings 2026</strong>! <a href="https://arxiv.org/abs/2512.19134">📄 Paper</a> / <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> / Covered by <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA">🔥 新智元</a>. Thanks to Dr. <a href="https://lcheng.org/">Cheng</a> for her guidance!</li>
   <li><span class="news-date">[2026.02]</span> New paper on latent reasoning: <strong><em>Latent Thoughts Tuning</em></strong> — Bridging Context and Reasoning with Fused Information in Latent Tokens. <a href="https://arxiv.org/abs/2602.10229">📄 Paper</a> / <a href="https://github.com/NeosKnight233/Latent-Thoughts-Tuning">📦 Code</a></li>
   <li><span class="news-date">[2025.12]</span> Selected as <strong>Outstanding Reviewer of 2024–2025</strong> for IEEE TNNLS! <a href="https://zhishanq.github.io/files/TNNLS_Outstanding_reviewer_Dehai_Min.pdf">📦 Certificate</a></li>
@@ -87,12 +89,12 @@ I am always open to internship opportunities and research collaborations — fee
 
 ### Collaborative Publications
 
-* Weihao Liu, **Dehai Min**, Lu Cheng. [Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](https://arxiv.org/abs/2602.10229) <span class="venue venue-review">Under Review</span>
+* Weihao Liu, **Dehai Min**, Lu Cheng. [Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](https://arxiv.org/abs/2602.10229) <span class="venue venue-pub">ICML 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2602.10229) / [📦 Code](https://github.com/NeosKnight233/Latent-Thoughts-Tuning) <img src="https://img.shields.io/github/stars/NeosKnight233/Latent-Thoughts-Tuning?style=social&label=Stars"></span>
 
 * Mingyang Wei, **Dehai Min**, Zewen Liu, Yuzhang Xie, Guanchen Wu, Carl Yang, Max S.Y. Lau, Qi He, Lu Cheng, Wei Jin. [EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning](https://arxiv.org/abs/2601.03471) <span class="venue venue-review">Under Review</span>
 
-* Huiyi Chen, Jiawei Peng, **Dehai Min**, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng. [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/abs/2511.14159) <span class="venue venue-review">Under Review</span>
+* Huiyi Chen, Jiawei Peng, **Dehai Min**, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng. [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/abs/2511.14159) <span class="venue venue-pub">ICML 2026</span>
 <br><span class="pub-links">[📦 Code](https://github.com/chenyil6/MVI-Bench) <img src="https://img.shields.io/github/stars/chenyil6/MVI-Bench?style=social&label=Stars"></span>
 
 * Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen, **Dehai Min** and Sheng Bi. [HeGTa: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](https://arxiv.org/abs/2403.19723) <span class="venue venue-pub">AAAI 2025</span>
