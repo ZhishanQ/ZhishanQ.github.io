@@ -32,7 +32,7 @@ redirect_from:
   <a href="https://zhishanq.github.io/files/DehaiMin_CV.pdf">📄 CV</a>
 </div>
 
-<p style="margin-top: 10px; font-style: italic; color: #8B0000;">
+<p style="margin-top: 10px; font-style: italic; font-weight: bold; color: #8B0000;">
 I am always open to internship opportunities and research collaborations — feel free to reach out!
 </p>
 
@@ -117,6 +117,15 @@ I am always open to internship opportunities and research collaborations — fee
 * Jiaqi Li, Chuanyi Zhang, Miaozeng Du, **Dehai Min**, Yongrui Chen, and Guilin Qi. [Three stream based multi-level event contrastive learning for text-video event extraction](https://aclanthology.org/2023.emnlp-main.103/) <span class="venue venue-oral">EMNLP 2023, Oral</span>
 <br><span class="pub-links">[🎤 Slides](https://zhishanq.github.io/files/EMNLP_2023_oral.pdf)</span>
 
+## 🏅 Competitions
+( I was an active participant in programming competitions during my undergraduate years. )
+
+* **ACM-ICPC** (International Collegiate Programming Contest) , Asian Regional Contest (Shanghai Site and others), 2019-2020, **2 times Silver Medal**. [individual](https://zhishanq.github.io/images/ICPC_Individual.pdf) / [team](https://zhishanq.github.io/images/ICPC_Team.pdf)
+* CCPC-Finals (China Collegiate Programming Contest National Finals), 2019, **21st place, Silver Medal**
+* 16th Baidu Star Programming Contest, National Semi-Finals, 2019, **154th place (154/13900+)**
+* Anhui Province Collegiate Programming Contest, **First Prize (2 times, 2019, 2020), Champion🏆 (1 time, 2020)**
+* Codeforces Rating: **2108 (Master)**, [link](https://codeforces.com/profile/QieziMin)
+
 ## 👨‍💻 Academic Services
 
 * **Outstanding Reviewer of 2024–2025**, IEEE TNNLS [📦 Certificate](https://zhishanq.github.io/files/TNNLS_Outstanding_reviewer_Dehai_Min.pdf)
@@ -132,12 +141,3 @@ I am always open to internship opportunities and research collaborations — fee
 * **Southeast University Xiaomi Scholarship (1/98)**, *Nov. 2024*
 * **Southeast University Alumni Scholarship (Top 1%)**, *Oct. 2023*
 * **University-level First-class Scholarship**, *Oct. 2020*
-
-## 🏅 Competitions
-( I was an active participant in programming competitions during my undergraduate years. )
-
-* **ACM-ICPC** (International Collegiate Programming Contest) , Asian Regional Contest (Shanghai Site and others), 2019-2020, **2 times Silver Medal**. [individual](https://zhishanq.github.io/images/ICPC_Individual.pdf) / [team](https://zhishanq.github.io/images/ICPC_Team.pdf)
-* CCPC-Finals (China Collegiate Programming Contest National Finals), 2019, **21st place, Silver Medal**
-* 16th Baidu Star Programming Contest, National Semi-Finals, 2019, **154th place (154/13900+)**
-* Anhui Province Collegiate Programming Contest, **First Prize (2 times, 2019, 2020), Champion🏆 (1 time, 2020)**
-* Codeforces Rating: **2108 (Master)**, [link](https://codeforces.com/profile/QieziMin)
