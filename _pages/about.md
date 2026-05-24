@@ -10,8 +10,14 @@ redirect_from:
 <div class="profile-header">
   <div class="profile-text">
     <h1>Dehai Min &nbsp; 闵德海</h1>
-    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://lcheng.org/">Lu Cheng</a> from Pennsylvania State University and Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
-    <p>My current research interests include <strong>Retrieval-Augmented Generation (RAG) & Deep Research</strong> and <strong>Trustworthy LLMs: Uncertainty Quantification</strong>. Previously, during my master's studies, I worked on LLMs with heterogeneous data (text, graphs, and tables).</p>
+    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <img src="../images/UIC_logo.svg" class="inline-logo" alt="UIC"> <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I am currently a Research Scientist Intern at <img src="../images/bytedance.svg" class="inline-logo" alt="ByteDance"> <a href="https://www.bytedance.com/en/">ByteDance (San Jose) Doubao Enterprise Team</a>, focusing on <strong>Agent Harness</strong> and <strong>Agent data synthesis</strong>. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://lcheng.org/">Lu Cheng</a> from Pennsylvania State University and Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
+    <p>My current research interests include:</p>
+    <ol>
+      <li><strong>Agent Harness & Agent Data Synthesis</strong></li>
+      <li><strong>Retrieval-Augmented Generation (RAG) & Deep Research</strong></li>
+      <li><strong>Efficient and Trustworthy LLMs</strong></li>
+    </ol>
+    <p>Previously, during my master's studies, I worked on LLMs with heterogeneous data (text, graphs, and tables).</p>
   </div>
   <div class="profile-photo">
     <img src="../images/Blue_high.png" alt="Dehai Min">
@@ -33,8 +39,9 @@ I am always open to internship opportunities and research collaborations — fee
 ## 🎉 News
 
 <ul class="news-list">
-  <li><span class="news-date">[2026.05]</span> Moved to San Jose, CA 🌉 to start as a <strong>Research Scientist Intern @ ByteDance</strong>, working with the Doubao Agent Team at AML / Volcano Engine-Ark.</li>
-  <li><span class="news-date">[2026.05]</span> Two papers (<strong><em>Latent Thoughts Tuning</em></strong> & <strong><em>MVI-Bench</em></strong>) accepted by <strong>ICML 2026</strong>! 🎉</li>
+  <li><span class="news-date">[2026.06]</span> New paper: <a href="https://arxiv.org/abs/2605.17672"><strong><em>Stop When Reasoning Converges</em></strong></a> — Semantic-Preserving Early Exit for Reasoning Models (<strong>PUMA</strong>). <a href="https://arxiv.org/abs/2605.17672">📄 Paper</a> / <a href="https://github.com/giovanni-vaccarino/PUMA">📦 Code</a></li>
+  <li><span class="news-date">[2026.05]</span> Moved to San Jose, CA (Bay Area) to start as a <strong>Research Scientist Intern @ ByteDance</strong>, working with the Doubao Agent Team at AML / Volcano Engine-Ark.</li>
+  <li><span class="news-date">[2026.05]</span> Two papers (<a href="https://arxiv.org/abs/2602.10229"><strong><em>Latent Thoughts Tuning</em></strong></a> & <a href="https://arxiv.org/abs/2511.14159"><strong><em>MVI-Bench</em></strong></a>) accepted by <strong>ICML 2026</strong>! 🎉</li>
   <li><span class="news-date">[2026.04]</span> One paper (<strong><em>QuCo-RAG</em></strong>) accepted by <strong>ACL Findings 2026</strong>! <a href="https://arxiv.org/abs/2512.19134">📄 Paper</a> / <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> / Covered by <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA">🔥 新智元</a>. Thanks to Dr. <a href="https://lcheng.org/">Cheng</a> for her guidance!</li>
   <li><span class="news-date">[2026.02]</span> New paper on latent reasoning: <strong><em>Latent Thoughts Tuning</em></strong> — Bridging Context and Reasoning with Fused Information in Latent Tokens. <a href="https://arxiv.org/abs/2602.10229">📄 Paper</a> / <a href="https://github.com/NeosKnight233/Latent-Thoughts-Tuning">📦 Code</a></li>
   <li><span class="news-date">[2025.12]</span> Selected as <strong>Outstanding Reviewer of 2024–2025</strong> for IEEE TNNLS! <a href="https://zhishanq.github.io/files/TNNLS_Outstanding_reviewer_Dehai_Min.pdf">📦 Certificate</a></li>
@@ -65,7 +72,7 @@ I am always open to internship opportunities and research collaborations — fee
 
 <div class="edu-row">
   <img src="../images/ByteDance_logo.svg" width="100" style="vertical-align: middle;">
-  <div class="edu-info"><strong>ByteDance (TikTok)</strong> , <em>05/2026 - 08/2026 (expected)</em><br>Research Scientist Intern , San Jose, California</div>
+  <div class="edu-info"><strong>ByteDance (TikTok)</strong> , <em>05/2026 - </em><br>Research Scientist Intern , San Jose, California<br>Doubao Enterprise Agent Team at AML / <a href="https://www.volcengine.com/product/ark">Volcano Engine-Ark</a>.</div>
 </div>
 
 ## 📝 Publications and Preprints
@@ -74,6 +81,9 @@ I am always open to internship opportunities and research collaborations — fee
 <img src="https://img.shields.io/badge/citations-362-blue?style=flat-square&logo=google-scholar"> <img src="https://img.shields.io/badge/h--index-7-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/i10--index-5-orange?style=flat-square">
 
 ### First-author Publications
+
+* **Dehai Min**, Giovanni Vaccarino, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng. [Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models](https://arxiv.org/abs/2605.17672) <span class="venue venue-review">Preprint</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.17672) / [📦 Code](https://github.com/giovanni-vaccarino/PUMA) <img src="https://img.shields.io/github/stars/giovanni-vaccarino/PUMA?style=social&label=Stars"></span>
 
 * **Dehai Min**, Kailin Zhang, Tongtong Wu, Lu Cheng. [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134) <span class="venue venue-pub">ACL Findings 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2512.19134) / [📦 Code](https://github.com/ZhishanQ/QuCo-RAG) <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / [![WeChat-新智元](https://img.shields.io/badge/WeChat-新智元-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA)</span>

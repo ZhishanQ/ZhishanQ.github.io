@@ -77,10 +77,24 @@ html { font-size: 14px; }
 /* Resource links after papers */
 .pub-links a { margin-right: 6px; text-decoration: none; font-size: 0.92em; }
 
-/* News list */
-.news-list { list-style: none; padding-left: 0; }
+/* News list — scrollable timeline */
+.news-list {
+  list-style: none;
+  padding: 4px 12px 4px 16px;
+  margin: 0;
+  max-height: 320px;
+  overflow-y: auto;
+  border-left: 2px solid #eaecef;
+  scrollbar-width: thin;
+  scrollbar-color: #c1c8d0 transparent;
+}
 .news-list li { margin-bottom: 10px; padding-left: 0; line-height: 1.65; }
 .news-date { font-weight: 700; color: #494e52; margin-right: 4px; }
+/* Webkit scrollbar styling */
+.news-list::-webkit-scrollbar { width: 6px; }
+.news-list::-webkit-scrollbar-track { background: transparent; }
+.news-list::-webkit-scrollbar-thumb { background: #c1c8d0; border-radius: 3px; }
+.news-list::-webkit-scrollbar-thumb:hover { background: #a0a8b0; }
 
 /* Education & Internship rows */
 .edu-row { display: flex; align-items: center; margin-bottom: 12px; gap: 10px; flex-wrap: wrap; }
@@ -89,6 +103,17 @@ html { font-size: 14px; }
 
 /* Prevent overflow on small screens */
 .page__content img { max-width: 100%; height: auto; }
+
+/* Inline logos in text (e.g., institution icons in intro) */
+.page__content img.inline-logo,
+img.inline-logo {
+  display: inline-block !important;
+  height: 1.2em !important;
+  width: auto !important;
+  max-width: none !important;
+  vertical-align: -0.2em;
+  margin: 0 2px;
+}
 </style>
 
 <!-- end custom head snippets -->
