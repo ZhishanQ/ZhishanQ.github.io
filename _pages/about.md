@@ -39,7 +39,8 @@ I am always open to internship opportunities and research collaborations — fee
 ## 🎉 News
 
 <ul class="news-list">
-  <li><span class="news-date">[2026.06]</span> New paper: <a href="https://arxiv.org/abs/2605.17672"><strong><em>Stop When Reasoning Converges</em></strong></a> — Semantic-Preserving Early Exit for Reasoning Models (<strong>PUMA</strong>). <a href="https://arxiv.org/abs/2605.17672">📄 Paper</a> / <a href="https://github.com/giovanni-vaccarino/PUMA">📦 Code</a></li>
+  <li><span class="news-date">[2026.06]</span> New paper: <a href="https://arxiv.org/abs/2605.17672"><strong><em>Stop When Reasoning Converges</em></strong></a> — Semantic-Preserving Early Exit for Reasoning Models (<strong>PUMA</strong>). <a href="https://arxiv.org/abs/2605.17672">📄 Paper</a> / <a href="https://github.com/giovanni-vaccarino/PUMA">📦 Code</a> / <a href="https://huggingface.co/collections/ZhishanQ/puma">🤗 Models & Datasets</a></li>
+  <li><span class="news-date">[2026.06]</span> New paper (co-first): <a href="https://arxiv.org/abs/2605.29648"><strong><em>CorVer</em></strong></a> — Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering. <a href="https://arxiv.org/abs/2605.29648">📄 Paper</a> / <a href="https://github.com/shichengf/CorVer">📦 Code</a></li>
   <li><span class="news-date">[2026.05]</span> Moved to San Jose, CA (Bay Area) to start as a <strong>Research Scientist Intern @ ByteDance</strong>, working with the Doubao Agent Team at AML / Volcano Engine-Ark.</li>
   <li><span class="news-date">[2026.05]</span> Two papers (<a href="https://arxiv.org/abs/2602.10229"><strong><em>Latent Thoughts Tuning</em></strong></a> & <a href="https://arxiv.org/abs/2511.14159"><strong><em>MVI-Bench</em></strong></a>) accepted by <strong>ICML 2026</strong>! 🎉</li>
   <li><span class="news-date">[2026.04]</span> One paper (<strong><em>QuCo-RAG</em></strong>) accepted by <strong>ACL Findings 2026</strong>! <a href="https://arxiv.org/abs/2512.19134">📄 Paper</a> / <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> / Covered by <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA">🔥 新智元</a>. Thanks to Dr. <a href="https://lcheng.org/">Cheng</a> for her guidance!</li>
@@ -83,7 +84,7 @@ I am always open to internship opportunities and research collaborations — fee
 ### First-author Publications
 
 * **Dehai Min**, Giovanni Vaccarino, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng. [Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models](https://arxiv.org/abs/2605.17672) <span class="venue venue-review">Preprint</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.17672) / [📦 Code](https://github.com/giovanni-vaccarino/PUMA) <img src="https://img.shields.io/github/stars/giovanni-vaccarino/PUMA?style=social&label=Stars"></span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.17672) / [📦 Code](https://github.com/giovanni-vaccarino/PUMA) <img src="https://img.shields.io/github/stars/giovanni-vaccarino/PUMA?style=social&label=Stars"> / [🤗 Models & Datasets](https://huggingface.co/collections/ZhishanQ/puma)</span>
 
 * **Dehai Min**, Kailin Zhang, Tongtong Wu, Lu Cheng. [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134) <span class="venue venue-pub">ACL Findings 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2512.19134) / [📦 Code](https://github.com/ZhishanQ/QuCo-RAG) <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / [![WeChat-新智元](https://img.shields.io/badge/WeChat-新智元-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA)</span>
@@ -96,6 +97,11 @@ I am always open to internship opportunities and research collaborations — fee
 
 * Yiming Tan\*, **Dehai Min**\*, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen, and Guilin Qi. [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) <span class="venue venue-oral">ISWC 2023, Oral</span> **200 Citations**
 <br><span class="pub-links">[📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) / [📦 Code](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family) <img src="https://img.shields.io/github/stars/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family?style=social&label=Stars"> / [🎤 Slides](https://zhishanq.github.io/files/ISWC2023-oral_new.pdf)</span>
+
+* Shicheng Fan\*, Haochang Hao\*, **Dehai Min**\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-review">Preprint</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.29648) / [📦 Code](https://github.com/shichengf/CorVer) <img src="https://img.shields.io/github/stars/shichengf/CorVer?style=social&label=Stars"></span>
+
+<div style="margin-top: 2em;"></div>
 
 ### Collaborative Publications
 
