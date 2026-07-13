@@ -79,7 +79,7 @@ I am always open to internship opportunities and research collaborations — fee
 ## 📝 Publications and Preprints
 (\* denotes equal contribution.)
 
-<img src="https://img.shields.io/badge/citations-391-blue?style=flat-square&logo=google-scholar"> <img src="https://img.shields.io/badge/h--index-8-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/i10--index-7-orange?style=flat-square">
+<img src="https://img.shields.io/badge/citations-405-blue?style=flat-square&logo=google-scholar"> <img src="https://img.shields.io/badge/h--index-8-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/i10--index-7-orange?style=flat-square">
 
 ### First-author Publications
 
@@ -95,7 +95,7 @@ I am always open to internship opportunities and research collaborations — fee
 * **Dehai Min**\*, Nan Hu\*, Rihui Jin, Nuo Lin, Jiaoyan Chen, Yongrui Chen, Yu Li et al. [Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data](https://arxiv.org/abs/2402.12869) <span class="venue venue-oral">NAACL 2024, Oral</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2402.12869) / [🎤 Slides](https://zhishanq.github.io/files/Oral_for_NAACL_2024.pdf)</span>
 
-* Yiming Tan\*, **Dehai Min**\*, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen, and Guilin Qi. [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) <span class="venue venue-oral">ISWC 2023, Oral</span> **205 Citations**
+* Yiming Tan\*, **Dehai Min**\*, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen, and Guilin Qi. [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) <span class="venue venue-oral">ISWC 2023, Oral</span> **209 Citations**
 <br><span class="pub-links">[📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) / [📦 Code](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family) <img src="https://img.shields.io/github/stars/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family?style=social&label=Stars"> / [🎤 Slides](https://zhishanq.github.io/files/ISWC2023-oral_new.pdf)</span>
 
 * Shicheng Fan\*, Haochang Hao\*, **Dehai Min**\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-review">Preprint</span>
