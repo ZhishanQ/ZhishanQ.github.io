@@ -140,6 +140,6 @@ I am always open to internship opportunities and research collaborations — fee
 
 * **Outstanding Reviewer of 2024–2025**, IEEE TNNLS [📦 Certificate](https://zhishanq.github.io/files/TNNLS_Outstanding_reviewer_Dehai_Min.pdf)
 
-* Reviewer of ACL 2025/2026, EMNLP 2025, ICML 2026
+* Reviewer of ACL 2025/2026, EMNLP 2025/2026, ICML 2026, NeurIPS 2026, AAAI 2027
 
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
