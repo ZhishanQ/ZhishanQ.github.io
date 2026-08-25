@@ -143,5 +143,3 @@ I am always open to internship opportunities and research collaborations — fee
 * Reviewer of ACL 2025/2026, EMNLP 2025, ICML 2026
 
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-
-* Subreviewer of the International Semantic Web Conference (ISWC 2024)
