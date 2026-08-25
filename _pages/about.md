@@ -39,6 +39,7 @@ I am always open to internship opportunities and research collaborations — fee
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.08]</span> Two papers accepted: <a href="https://arxiv.org/abs/2607.08940"><strong><em>TSRouter</em></strong></a> by <strong>COLM 2026</strong> (<a href="https://arxiv.org/abs/2607.08940">📄 Paper</a> / <a href="https://github.com/tianyi-lab/TSRouter">📦 Code</a>) & <a href="https://arxiv.org/abs/2601.03471"><strong><em>EpiQAL</em></strong></a> by <strong>EMNLP 2026</strong>! 🎉</li>
   <li><span class="news-date">[2026.06]</span> New paper: <a href="https://arxiv.org/abs/2605.17672"><strong><em>Stop When Reasoning Converges</em></strong></a> — Semantic-Preserving Early Exit for Reasoning Models (<strong>PUMA</strong>). <a href="https://arxiv.org/abs/2605.17672">📄 Paper</a> / <a href="https://github.com/giovanni-vaccarino/PUMA">📦 Code</a> / <a href="https://huggingface.co/collections/ZhishanQ/puma">🤗 Models & Datasets</a></li>
   <li><span class="news-date">[2026.06]</span> New paper (co-first): <a href="https://arxiv.org/abs/2605.29648"><strong><em>CorVer</em></strong></a> — Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering. <a href="https://arxiv.org/abs/2605.29648">📄 Paper</a> / <a href="https://github.com/shichengf/CorVer">📦 Code</a></li>
   <li><span class="news-date">[2026.05]</span> Moved to San Jose, CA (Bay Area) to start as a <strong>Research Scientist Intern @ ByteDance</strong>, working with the Doubao Agent Team at AML / Volcano Engine-Ark.</li>
@@ -105,10 +106,13 @@ I am always open to internship opportunities and research collaborations — fee
 
 ### Collaborative Publications
 
+* Fangxu Yu, Tao Feng, **Dehai Min**, Lu Cheng, Ge Liu, Tianyi Zhou. [TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning](https://arxiv.org/abs/2607.08940) <span class="venue venue-pub">COLM 2026</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2607.08940) / [📦 Code](https://github.com/tianyi-lab/TSRouter) <img src="https://img.shields.io/github/stars/tianyi-lab/TSRouter?style=social&label=Stars"></span>
+
 * Weihao Liu, **Dehai Min**, Lu Cheng. [Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](https://arxiv.org/abs/2602.10229) <span class="venue venue-pub">ICML 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2602.10229) / [📦 Code](https://github.com/NeosKnight233/Latent-Thoughts-Tuning) <img src="https://img.shields.io/github/stars/NeosKnight233/Latent-Thoughts-Tuning?style=social&label=Stars"></span>
 
-* Mingyang Wei, **Dehai Min**, Zewen Liu, Yuzhang Xie, Guanchen Wu, Carl Yang, Max S.Y. Lau, Qi He, Lu Cheng, Wei Jin. [EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning](https://arxiv.org/abs/2601.03471) <span class="venue venue-review">Under Review</span>
+* Mingyang Wei, **Dehai Min**, Zewen Liu, Yuzhang Xie, Guanchen Wu, Carl Yang, Max S.Y. Lau, Qi He, Lu Cheng, Wei Jin. [EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning](https://arxiv.org/abs/2601.03471) <span class="venue venue-pub">EMNLP 2026</span>
 
 * Huiyi Chen, Jiawei Peng, **Dehai Min**, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng. [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/abs/2511.14159) <span class="venue venue-pub">ICML 2026</span>
 <br><span class="pub-links">[📦 Code](https://github.com/chenyil6/MVI-Bench) <img src="https://img.shields.io/github/stars/chenyil6/MVI-Bench?style=social&label=Stars"></span>
