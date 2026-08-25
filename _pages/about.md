@@ -150,4 +150,3 @@ I am always open to internship opportunities and research collaborations — fee
 
 * **Southeast University Xiaomi Scholarship (1/98)**, *Nov. 2024*
 * **Southeast University Alumni Scholarship (Top 1%)**, *Oct. 2023*
-* **University-level First-class Scholarship**, *Oct. 2020*
