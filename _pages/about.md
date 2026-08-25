@@ -145,8 +145,3 @@ I am always open to internship opportunities and research collaborations — fee
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 * Subreviewer of the International Semantic Web Conference (ISWC 2024)
-
-## 🏆 Scholarships (Selected)
-
-* **Southeast University Xiaomi Scholarship (1/98)**, *Nov. 2024*
-* **Southeast University Alumni Scholarship (Top 1%)**, *Oct. 2023*
