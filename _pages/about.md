@@ -130,9 +130,8 @@ I am always open to internship opportunities and research collaborations — fee
 ## 🏅 Competitions
 ( I was an active participant in programming competitions during my undergraduate years. )
 
-* **ACM-ICPC** (International Collegiate Programming Contest) , Asian Regional Contest (Shanghai Site and others), 2019-2020, **2 times Silver Medal**. [individual](https://zhishanq.github.io/images/ICPC_Individual.pdf) / [team](https://zhishanq.github.io/images/ICPC_Team.pdf)
-* CCPC-Finals (China Collegiate Programming Contest National Finals), 2019, **21st place, Silver Medal**
-* 16th Baidu Star Programming Contest, National Semi-Finals, 2019, **154th place (154/13900+)**
+* **<span style="color: #8B0000;">ACM-ICPC</span>** (International Collegiate Programming Contest) , Asian Regional Contest (including all participating universities in mainland China), 2019-2020, **2 times <span style="color: #8B0000;">Silver Medal</span>**. [individual](https://zhishanq.github.io/images/ICPC_Individual.pdf) / [team](https://zhishanq.github.io/images/ICPC_Team.pdf)
+* <span style="color: #8B0000;">CCPC-Finals</span> (China Collegiate Programming Contest National Finals), 2019, **21st place, <span style="color: #8B0000;">Silver Medal</span>**
 * Anhui Province Collegiate Programming Contest, **First Prize (2 times, 2019, 2020), Champion🏆 (1 time, 2020)**
 * Codeforces Rating: **2108 (Master)**, [link](https://codeforces.com/profile/QieziMin)
 
