@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install scholarly "bibtexparser<2"  # scholarly 1.7.11 breaks on bibtexparser 2.x
+        run: pip install scholarly "bibtexparser<2" "httpx<0.28"  # scholarly 1.7.11 breaks on bibtexparser 2.x and on httpx 0.28 (proxies kwarg removed)
 
       - name: Fetch and update scholar stats
         run: python scripts/update_scholar_stats.py
