@@ -28,8 +28,7 @@ redirect_from:
   <a href="https://scholar.google.com/citations?user=lVn0bHUAAAAJ">🎓 Google Scholar</a> /
   <a href="https://github.com/ZhishanQ">😺 Github</a> /
   <a href="https://twitter.com/qiezimin">🐦 Twitter</a> /
-  <a href="https://www.linkedin.com/in/dehai-min-b2822829b/">💼 LinkedIn</a> /
-  <a href="https://zhishanq.github.io/files/DehaiMin_CV.pdf">📄 CV</a>
+  <a href="https://www.linkedin.com/in/dehai-min-b2822829b/">💼 LinkedIn</a>
 </div>
 
 <p style="margin-top: 10px; font-style: italic; font-weight: bold; color: #8B0000;">
