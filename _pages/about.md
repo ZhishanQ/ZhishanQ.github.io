@@ -10,7 +10,7 @@ redirect_from:
 <div class="profile-header">
   <div class="profile-text">
     <h1>Dehai Min &nbsp; 闵德海</h1>
-    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <img src="../images/UIC_logo.svg" class="inline-logo" alt="UIC"> <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I am currently a Research Scientist Intern at <img src="../images/bytedance.svg" class="inline-logo" alt="ByteDance"> <a href="https://www.bytedance.com/en/">ByteDance (San Jose)</a> Doubao Enterprise Team, focusing on <strong>Agent Long-horizon Trace Evaluation</strong> and <strong>Agent Environment Reconstruction & Synthesis</strong>. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://lcheng.org/">Lu Cheng</a> from Pennsylvania State University and Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
+    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <img src="../images/UIC_logo.svg" class="inline-logo" alt="UIC"> <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I am currently a Research Scientist Intern at <img src="../images/bytedance.svg" class="inline-logo" alt="ByteDance"> <a href="https://www.bytedance.com/en/">ByteDance (San Jose)</a> Doubao Enterprise Team, focusing on <strong>Agent Long-horizon Trace Evaluation</strong> and <strong>Agent Environment Reconstruction & Synthesis</strong>. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
     <p>My current research interests include:</p>
     <ol>
       <li><strong>Agent Long-horizon Trace Evaluation & Agent Environment Reconstruction & Synthesis</strong></li>
@@ -38,6 +38,7 @@ I am always open to internship opportunities and research collaborations — fee
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.09]</span> New paper released: <a href="https://arxiv.org/abs/2609.33295"><strong><em>TraceDance</em></strong></a> — An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces. Paper and project website are now available! <a href="https://arxiv.org/abs/2609.33295">📄 Paper</a> / <a href="https://zhishanq.github.io/TraceDance/">🌐 Website</a></li>
   <li><span class="news-date">[2026.08]</span> Two papers accepted: <a href="https://arxiv.org/abs/2607.08940"><strong><em>TSRouter</em></strong></a> by <strong>COLM 2026</strong> (<a href="https://arxiv.org/abs/2607.08940">📄 Paper</a> / <a href="https://github.com/tianyi-lab/TSRouter">📦 Code</a>) & <a href="https://arxiv.org/abs/2601.03471"><strong><em>EpiQAL</em></strong></a> by <strong>EMNLP 2026</strong>! 🎉</li>
   <li><span class="news-date">[2026.06]</span> New paper: <a href="https://arxiv.org/abs/2605.17672"><strong><em>Stop When Reasoning Converges</em></strong></a> — Semantic-Preserving Early Exit for Reasoning Models (<strong>PUMA</strong>). <a href="https://arxiv.org/abs/2605.17672">📄 Paper</a> / <a href="https://github.com/giovanni-vaccarino/PUMA">📦 Code</a> / <a href="https://huggingface.co/collections/ZhishanQ/puma">🤗 Models & Datasets</a></li>
   <li><span class="news-date">[2026.06]</span> New paper (co-first): <a href="https://arxiv.org/abs/2605.29648"><strong><em>CorVer</em></strong></a> — Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering. <a href="https://arxiv.org/abs/2605.29648">📄 Paper</a> / <a href="https://github.com/shichengf/CorVer">📦 Code</a></li>
@@ -73,7 +74,7 @@ I am always open to internship opportunities and research collaborations — fee
 
 <div class="edu-row">
   <img src="../images/ByteDance_logo.svg" width="100" style="vertical-align: middle;">
-  <div class="edu-info"><strong>ByteDance (TikTok)</strong> , <em>05/2026 - </em><br>Research Scientist Intern , San Jose, California<br>Doubao Enterprise Agent Team at AML / <a href="https://www.volcengine.com/product/ark">Volcano Engine-Ark</a>.</div>
+  <div class="edu-info"><strong>ByteDance (TikTok)</strong> , <em>05/2026 - </em><br>Research Scientist Intern , San Jose, California<br>Doubao Enterprise Agent Team at AML / <a href="https://www.volcengine.com/product/ark">Volcano Engine-Ark</a>.<br>Data flywheel from deployed API traffic back into Doubao Seed model training.</div>
 </div>
 
 ## 📝 Publications and Preprints
@@ -82,6 +83,9 @@ I am always open to internship opportunities and research collaborations — fee
 <img src="https://img.shields.io/badge/citations-631-blue?style=flat-square&logo=google-scholar"> <img src="https://img.shields.io/badge/h--index-8-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/i10--index-8-orange?style=flat-square">
 
 ### First-author Publications
+
+* **Dehai Min**, Daoan Zhang, Yiming Zeng, Huayi Zhang, Ziyi Chen, Yan Zhang, Qinbo Bai, Mengyuan Chao et al. [TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](https://arxiv.org/abs/2609.33295) <span class="venue venue-review">Preprint</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2609.33295) / [🌐 Website](https://zhishanq.github.io/TraceDance/)</span>
 
 * **Dehai Min**\*, Giovanni Vaccarino\*, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng. [Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models](https://arxiv.org/abs/2605.17672) <span class="venue venue-review">Preprint</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.17672) / [📦 Code](https://github.com/giovanni-vaccarino/PUMA) <img src="https://img.shields.io/github/stars/giovanni-vaccarino/PUMA?style=social&label=Stars"> / [🤗 Models & Datasets](https://huggingface.co/collections/ZhishanQ/puma) / [![WeChat-机器之心](https://img.shields.io/badge/WeChat-机器之心-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/MZvT2wWKZkQjaoK_vgkg5A)</span>
