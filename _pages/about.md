@@ -10,7 +10,7 @@ redirect_from:
 <div class="profile-header">
   <div class="profile-text">
     <h1>Dehai Min &nbsp; 闵德海</h1>
-    <p>👋 I am a second-year CS Ph.D. student (Aug. 2025–) at <img src="../images/UIC_logo.svg" class="inline-logo" alt="UIC"> <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I am currently a Research Scientist Intern at <img src="../images/bytedance.svg" class="inline-logo" alt="ByteDance"> <a href="https://www.bytedance.com/en/">ByteDance (San Jose)</a> Doubao Enterprise Team, focusing on <strong>Agent Long-horizon Trace Evaluation</strong> and <strong>Agent Environment Reconstruction & Synthesis</strong>. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
+    <p>👋 I am a second-year CS Ph.D. student (Aug. 2025–) at <img src="../images/UIC_logo.svg" class="inline-logo" alt="UIC"> <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). In Summer 2026, I was a Research Scientist Intern at <img src="../images/bytedance.svg" class="inline-logo" alt="ByteDance"> <a href="https://www.bytedance.com/en/">ByteDance (San Jose)</a> Doubao Enterprise Team, where I worked on <strong>Agent Long-horizon Trace Evaluation</strong> and <strong>Agent Environment Reconstruction & Synthesis</strong>. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
     <p>My current research interests include:</p>
     <ol>
       <li><strong>Agent Long-horizon Trace Evaluation & Agent Environment Reconstruction & Synthesis</strong></li>
@@ -32,7 +32,7 @@ redirect_from:
 </div>
 
 <p style="margin-top: 10px; font-style: italic; font-weight: bold; color: #8B0000;">
-I am always open to internship opportunities and research collaborations — feel free to reach out!
+I am always open to research discussions and exploring internship opportunities — feel free to reach out!
 </p>
 
 ## 🎉 News
@@ -74,7 +74,7 @@ I am always open to internship opportunities and research collaborations — fee
 
 <div class="edu-row">
   <img src="../images/ByteDance_logo.svg" width="100" style="vertical-align: middle;">
-  <div class="edu-info"><strong>ByteDance (TikTok)</strong> , <em>05/2026 - </em><br>Research Scientist Intern , San Jose, California<br>Doubao Enterprise Agent Team at AML / <a href="https://www.volcengine.com/product/ark">Volcano Engine-Ark</a>.<br>Data flywheel from deployed API traffic back into Doubao Seed model training.</div>
+  <div class="edu-info"><strong>ByteDance (TikTok)</strong> , <em>05/2026 - 08/2026</em><br>Research Scientist Intern , San Jose, California<br>Doubao Enterprise Agent Team at AML / <a href="https://www.volcengine.com/product/ark">Volcano Engine-Ark</a>.<br>Data flywheel from deployed API traffic back into Doubao Seed model training.</div>
 </div>
 
 ## 📝 Publications and Preprints
@@ -107,7 +107,7 @@ I am always open to internship opportunities and research collaborations — fee
 
 <div style="margin-top: 2em;"></div>
 
-### Collaborative Publications
+### Selected Collaborative Publications
 
 * Fangxu Yu, Tao Feng, **Dehai Min**, Lu Cheng, Ge Liu, Tianyi Zhou. [TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning](https://arxiv.org/abs/2607.08940) <span class="venue venue-pub">COLM 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2607.08940) / [📦 Code](https://github.com/tianyi-lab/TSRouter) <img src="https://img.shields.io/github/stars/tianyi-lab/TSRouter?style=social&label=Stars"></span>
@@ -119,16 +119,6 @@ I am always open to internship opportunities and research collaborations — fee
 
 * Huiyi Chen, Jiawei Peng, **Dehai Min**, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng. [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/abs/2511.14159) <span class="venue venue-pub">ICML 2026</span>
 <br><span class="pub-links">[📦 Code](https://github.com/chenyil6/MVI-Bench) <img src="https://img.shields.io/github/stars/chenyil6/MVI-Bench?style=social&label=Stars"></span>
-
-* Rihui Jin, Yu Li, Guilin Qi, Nan Hu, Yuan-Fang Li, Jiaoyan Chen, Jianan Wang, Yongrui Chen, **Dehai Min** and Sheng Bi. [HeGTa: Leveraging Heterogeneous Graph-enhanced Large Language Models for Few-shot Complex Table Understanding](https://arxiv.org/abs/2403.19723) <span class="venue venue-pub">AAAI 2025</span>
-
-* Yu Li, Shenyu Zhang, Rui Wu, Xiutian Huang, Yongrui Chen, Wenhao Xu, Guilin Qi, and **Dehai Min**. [MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation](https://arxiv.org/abs/2403.19305) <span class="venue venue-oral">DASFAA 2024, Oral</span>
-
-* Nan Hu, Yike Wu, Guilin Qi, **Dehai Min**, Jiaoyan Chen, Jeff Z. Pan, and Zafar Ali. [An empirical study of pre-trained language models in simple knowledge graph question answering](https://link.springer.com/article/10.1007/s11280-023-01166-y) <span class="venue venue-pub">WWW Journal 2023</span>
-<br><span class="pub-links">[📦 Code](https://github.com/HuuuNan/PLMs-in-Practical-KBQA) <img src="https://img.shields.io/github/stars/HuuuNan/PLMs-in-Practical-KBQA?style=social&label=Stars"></span>
-
-* Jiaqi Li, Chuanyi Zhang, Miaozeng Du, **Dehai Min**, Yongrui Chen, and Guilin Qi. [Three stream based multi-level event contrastive learning for text-video event extraction](https://aclanthology.org/2023.emnlp-main.103/) <span class="venue venue-oral">EMNLP 2023, Oral</span>
-<br><span class="pub-links">[🎤 Slides](https://zhishanq.github.io/files/EMNLP_2023_oral.pdf)</span>
 
 ## 🏅 Competitions
 ( I was an active participant in programming competitions during my undergraduate years. )
