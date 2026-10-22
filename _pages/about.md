@@ -38,6 +38,8 @@ I am always open to research discussions and exploring internship opportunities 
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.10]</span> Invited by <img src="../images/Apple_logo_PNG1.png" class="inline-logo" alt="Apple"> <strong>Apple</strong> to give a research talk on <a href="https://zhishanq.github.io/TraceDance/"><strong><em>TraceDance</em></strong></a>! 🎤</li>
+  <li><span class="news-date">[2026.10]</span> Excited to share that I'm joining <strong>Microsoft’s CoreAI - GitHub Copilot</strong> team as a <strong>student researcher</strong>, working on coding agents post-training and evaluation!</li>
   <li><span class="news-date">[2026.09]</span> New paper released: <a href="https://arxiv.org/abs/2609.33295"><strong><em>TraceDance</em></strong></a> — An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces. Paper and project website are now available! <a href="https://arxiv.org/abs/2609.33295">📄 Paper</a> / <a href="https://zhishanq.github.io/TraceDance/">🌐 Website</a></li>
   <li><span class="news-date">[2026.08]</span> Two papers accepted: <a href="https://arxiv.org/abs/2607.08940"><strong><em>TSRouter</em></strong></a> by <strong>COLM 2026</strong> (<a href="https://arxiv.org/abs/2607.08940">📄 Paper</a> / <a href="https://github.com/tianyi-lab/TSRouter">📦 Code</a>) & <a href="https://arxiv.org/abs/2601.03471"><strong><em>EpiQAL</em></strong></a> by <strong>EMNLP 2026</strong>! 🎉</li>
   <li><span class="news-date">[2026.06]</span> New paper: <a href="https://arxiv.org/abs/2605.17672"><strong><em>Stop When Reasoning Converges</em></strong></a> — Semantic-Preserving Early Exit for Reasoning Models (<strong>PUMA</strong>). <a href="https://arxiv.org/abs/2605.17672">📄 Paper</a> / <a href="https://github.com/giovanni-vaccarino/PUMA">📦 Code</a> / <a href="https://huggingface.co/collections/ZhishanQ/puma">🤗 Models & Datasets</a></li>
@@ -71,6 +73,11 @@ I am always open to research discussions and exploring internship opportunities 
 </div>
 
 ## 🧑‍🏫 Internship
+
+<div class="edu-row">
+  <img src="../images/Microsoft_logo.svg" width="100" style="vertical-align: middle;">
+  <div class="edu-info"><strong>Microsoft</strong> , <em>10/2026 - </em><br>Student Researcher , Part-time, Remote<br>CoreAI - GitHub Copilot Team.<br>Coding agents post-training and evaluation.</div>
+</div>
 
 <div class="edu-row">
   <img src="../images/ByteDance_logo.svg" width="100" style="vertical-align: middle;">
@@ -127,6 +134,14 @@ I am always open to research discussions and exploring internship opportunities 
 * **<span style="color: #8B0000;">CCPC-Finals</span>** (China Collegiate Programming Contest National Finals), 2019, **21st place, <span style="color: #8B0000;">Silver Medal</span>**
 * Anhui Province Collegiate Programming Contest, **First Prize (2 times, 2019, 2020), Champion🏆 (1 time, 2020)**
 * Codeforces Rating: **2108 (Master)**, [link](https://codeforces.com/profile/QieziMin)
+
+## 🎤 Invited Talks
+
+<div class="talk-card">
+  <img class="talk-logo" src="../images/Apple_logo_PNG1.png" alt="Apple">
+  <div class="talk-title"><a href="https://zhishanq.github.io/TraceDance/">TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces</a></div>
+  <div class="talk-meta"><strong>Apple</strong> · 2026.10</div>
+</div>
 
 ## 👨‍💻 Academic Services
 
