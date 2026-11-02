@@ -59,17 +59,17 @@ I am always open to research discussions and exploring internship opportunities 
 
 <div class="edu-row">
   <img src="../images/UIC_logo.svg" width="36" style="vertical-align: middle;">
-  <div class="edu-info"><strong>University of Illinois Chicago</strong> , Ph.D. , <em>08/2025 - present</em></div>
+  <div class="edu-info"><strong>University of Illinois Chicago</strong> (Chicago, IL, USA) , Ph.D. , <em>08/2025 - present</em></div>
 </div>
 
 <div class="edu-row">
   <img src="../images/seu-logo.png" width="36" style="vertical-align: middle;">
-  <div class="edu-info"><strong>Southeast University</strong> , M.S. , <em>09/2022 - 06/2025</em></div>
+  <div class="edu-info"><strong>Southeast University</strong> (Nanjing, China) , M.S. , <em>09/2022 - 06/2025</em></div>
 </div>
 
 <div class="edu-row">
   <img src="../images/HFU_logo.png" width="36" style="vertical-align: middle;">
-  <div class="edu-info"><strong>Hefei University</strong> , B.S. , <em>09/2017 - 06/2022</em></div>
+  <div class="edu-info"><strong>Hefei University</strong> (Hefei, China) , B.S. , <em>09/2017 - 06/2022</em></div>
 </div>
 
 ## 🧑‍🏫 Internship
