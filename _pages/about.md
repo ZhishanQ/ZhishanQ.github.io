@@ -32,7 +32,7 @@ redirect_from:
 </div>
 
 <p style="margin-top: 10px; font-style: italic; font-weight: bold; color: #8B0000;">
-I am always open to research discussions and exploring internship opportunities — feel free to reach out!
+I am always open to research discussions — feel free to reach out!
 </p>
 
 ## 🎉 News
@@ -107,7 +107,7 @@ I am always open to research discussions and exploring internship opportunities 
 <div class="pub">
   <div class="pub-title"><a href="https://arxiv.org/abs/2512.19134">QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation</a> <span class="venue venue-pub">ACL Findings 2026</span></div>
   <div class="pub-authors"><strong>Dehai Min</strong>, Kailin Zhang, Tongtong Wu, Lu Cheng.</div>
-  <div class="pub-links"><span class="topic topic-retrieval">RAG</span> <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA"><img src="https://img.shields.io/badge/WeChat-新智元-green.svg?logo=wechat" alt="WeChat-新智元"></a></div>
+  <div class="pub-links"><span class="topic topic-retrieval">RAG</span><span class="topic topic-efficient">Uncertainty Quantification</span> <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA"><img src="https://img.shields.io/badge/WeChat-新智元-green.svg?logo=wechat" alt="WeChat-新智元"></a></div>
 </div>
 
 <div class="pub">
@@ -119,7 +119,7 @@ I am always open to research discussions and exploring internship opportunities 
 <div class="pub">
   <div class="pub-title"><a href="https://arxiv.org/abs/2402.12869">Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data</a> <span class="venue venue-oral">NAACL 2024, Oral</span></div>
   <div class="pub-authors"><strong>Dehai Min</strong>*, Nan Hu*, Rihui Jin, Nuo Lin et al.</div>
-  <div class="pub-links"><span class="topic topic-retrieval">RAG</span> <a href="https://zhishanq.github.io/files/Oral_for_NAACL_2024.pdf">🎤 Slides</a></div>
+  <div class="pub-links"><span class="topic topic-retrieval">RAG</span><span class="topic topic-training">Post-Training</span><span class="topic topic-training">Pre-Training</span> <a href="https://zhishanq.github.io/files/Oral_for_NAACL_2024.pdf">🎤 Slides</a></div>
 </div>
 
 <div class="pub">
