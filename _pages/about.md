@@ -13,7 +13,7 @@ redirect_from:
     <p>👋 I am a second-year CS Ph.D. student (Aug. 2025–) at <img src="../images/UIC_logo.svg" class="inline-logo" alt="UIC"> <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ">Philip S. Yu</a> (Fellow of ACM, IEEE and AAAS). I am currently a Student Researcher at <span class="nowrap"><img src="../images/microsoft.svg" class="inline-logo" alt="Microsoft"> <a href="https://www.microsoft.com/">Microsoft</a></span> CoreAI - GitHub Copilot team. Previously, I was a Research Scientist Intern at <span class="nowrap"><img src="../images/bytedance.svg" class="inline-logo" alt="ByteDance"> <a href="https://www.bytedance.com/en/">ByteDance (San Jose)</a></span> Doubao/Seed Agent MaaS Team in Summer 2026. I received my M.S. from Southeast University, advised by Prof. <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=en">Guilin Qi</a>, and my B.S. from Hefei University. I am deeply grateful for the previous guidance from Prof. <a href="https://chenyuyou.me/">Chenyu You</a> from Stony Brook University.</p>
     <p>My current research interests include:</p>
     <ol>
-      <li><strong>Agent Long-horizon Trace Evaluation & Agent Environment Reconstruction & Synthesis</strong></li>
+      <li><strong>Agent Trajectory Evaluation, Environment Reconstruction & Verifier Synthesis</strong></li>
       <li><strong>Retrieval-Augmented Generation (RAG) & Information Retrieval</strong></li>
       <li><strong>Efficient LLMs & LLM Uncertainty Quantification</strong></li>
     </ol>
@@ -38,6 +38,7 @@ I am always open to research discussions and exploring internship opportunities 
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.11]</span> New paper (co-first): <a href="https://arxiv.org/abs/2611.13336"><strong><em>Veritas</em></strong></a> — A Verifier Generation Harness for Agent Tasks. <a href="https://arxiv.org/abs/2611.13336">📄 Paper</a></li>
   <li><span class="news-date">[2026.10]</span> Invited by <span class="nowrap"><img src="../images/Apple_logo_PNG1.png" class="inline-logo" alt="Apple"> <strong>Apple</strong></span> to give a research talk on <a href="https://zhishanq.github.io/TraceDance/"><strong><em>TraceDance</em></strong></a>! 🎤</li>
   <li><span class="news-date">[2026.10]</span> Excited to share that I'm joining <span class="nowrap"><img src="../images/microsoft.svg" class="inline-logo" alt="Microsoft"> <strong>Microsoft’s</strong></span> <strong>CoreAI - GitHub Copilot</strong> team as a <strong>student researcher</strong>, working on coding agents post-training and evaluation!</li>
   <li><span class="news-date">[2026.09]</span> New paper released: <a href="https://arxiv.org/abs/2609.33295"><strong><em>TraceDance</em></strong></a> — An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces. Paper and project website are now available! <a href="https://arxiv.org/abs/2609.33295">📄 Paper</a> / <a href="https://zhishanq.github.io/TraceDance/">🌐 Website</a></li>
@@ -91,10 +92,10 @@ I am always open to research discussions and exploring internship opportunities 
 
 ### First-author Publications
 
-* **Dehai Min**, Daoan Zhang, Yiming Zeng, Huayi Zhang, Ziyi Chen, Yan Zhang, Qinbo Bai, Mengyuan Chao et al. [TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](https://arxiv.org/abs/2609.33295) <span class="venue venue-review">Preprint</span>
+* **Dehai Min**, Daoan Zhang, Yiming Zeng, Huayi Zhang, Ziyi Chen, Yan Zhang, Qinbo Bai, Mengyuan Chao et al. [TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](https://arxiv.org/abs/2609.33295) <span class="venue venue-review">Preprint 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2609.33295) / [🌐 Website](https://zhishanq.github.io/TraceDance/)</span>
 
-* **Dehai Min**\*, Giovanni Vaccarino\*, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng. [Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models](https://arxiv.org/abs/2605.17672) <span class="venue venue-review">Preprint</span>
+* **Dehai Min**\*, Giovanni Vaccarino\*, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng. [Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models](https://arxiv.org/abs/2605.17672) <span class="venue venue-review">Preprint 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.17672) / [📦 Code](https://github.com/giovanni-vaccarino/PUMA) <img src="https://img.shields.io/github/stars/giovanni-vaccarino/PUMA?style=social&label=Stars"> / [🤗 Models & Datasets](https://huggingface.co/collections/ZhishanQ/puma) / [![WeChat-机器之心](https://img.shields.io/badge/WeChat-机器之心-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/MZvT2wWKZkQjaoK_vgkg5A)</span>
 
 * **Dehai Min**, Kailin Zhang, Tongtong Wu, Lu Cheng. [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134) <span class="venue venue-pub">ACL Findings 2026</span>
@@ -106,11 +107,14 @@ I am always open to research discussions and exploring internship opportunities 
 * **Dehai Min**\*, Nan Hu\*, Rihui Jin, Nuo Lin, Jiaoyan Chen, Yongrui Chen, Yu Li et al. [Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data](https://arxiv.org/abs/2402.12869) <span class="venue venue-oral">NAACL 2024, Oral</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2402.12869) / [🎤 Slides](https://zhishanq.github.io/files/Oral_for_NAACL_2024.pdf)</span>
 
+* Daoan Zhang\*, Qinbo Bai\*, **Dehai Min**\*, Xingyu Mu, Ziyi Chen, Jianing Yin. [Veritas: A Verifier Generation Harness for Agent Tasks](https://arxiv.org/abs/2611.13336) <span class="venue venue-review">Preprint 2026</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2611.13336)</span>
+
+* Shicheng Fan\*, Haochang Hao\*, **Dehai Min**\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-review">Preprint 2026</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.29648) / [📦 Code](https://github.com/shichengf/CorVer) <img src="https://img.shields.io/github/stars/shichengf/CorVer?style=social&label=Stars"></span>
+
 * Yiming Tan\*, **Dehai Min**\*, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen, and Guilin Qi. [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) <span class="venue venue-oral">ISWC 2023, Oral</span> **370 Citations**
 <br><span class="pub-links">[📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) / [📦 Code](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family) <img src="https://img.shields.io/github/stars/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family?style=social&label=Stars"> / [🎤 Slides](https://zhishanq.github.io/files/ISWC2023-oral_new.pdf)</span>
-
-* Shicheng Fan\*, Haochang Hao\*, **Dehai Min**\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-review">Preprint</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.29648) / [📦 Code](https://github.com/shichengf/CorVer) <img src="https://img.shields.io/github/stars/shichengf/CorVer?style=social&label=Stars"></span>
 
 <div style="margin-top: 2em;"></div>
 
