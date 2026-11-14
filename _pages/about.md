@@ -92,52 +92,94 @@ I am always open to research discussions and exploring internship opportunities 
 
 ### First-author Publications
 
-* **Dehai Min**, Daoan Zhang, Yiming Zeng, Huayi Zhang, Ziyi Chen, Yan Zhang, Qinbo Bai, Mengyuan Chao et al. [TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](https://arxiv.org/abs/2609.33295) <span class="venue venue-review">Preprint 2026</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2609.33295) / [🌐 Website](https://zhishanq.github.io/TraceDance/)</span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2609.33295">TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces</a> <span class="venue venue-review">Preprint 2026</span></div>
+  <div class="pub-authors"><strong>Dehai Min</strong>, Daoan Zhang, Yiming Zeng, Huayi Zhang et al.</div>
+  <div class="pub-links"><span class="topic topic-agent">Agent Evaluation</span> <a href="https://zhishanq.github.io/TraceDance/">🌐 Website</a></div>
+</div>
 
-* **Dehai Min**\*, Giovanni Vaccarino\*, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng. [Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models](https://arxiv.org/abs/2605.17672) <span class="venue venue-review">Preprint 2026</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.17672) / [📦 Code](https://github.com/giovanni-vaccarino/PUMA) <img src="https://img.shields.io/github/stars/giovanni-vaccarino/PUMA?style=social&label=Stars"> / [🤗 Models & Datasets](https://huggingface.co/collections/ZhishanQ/puma) / [![WeChat-机器之心](https://img.shields.io/badge/WeChat-机器之心-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/MZvT2wWKZkQjaoK_vgkg5A)</span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2605.17672">Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models</a> <span class="venue venue-review">Preprint 2026</span></div>
+  <div class="pub-authors"><strong>Dehai Min</strong>*, Giovanni Vaccarino*, Huiyi Chen, Yongliang Wu et al.</div>
+  <div class="pub-links"><span class="topic topic-efficient">Efficient Reasoning</span> <a href="https://github.com/giovanni-vaccarino/PUMA">📦 Code</a> <img src="https://img.shields.io/github/stars/giovanni-vaccarino/PUMA?style=social&label=Stars"> / <a href="https://huggingface.co/collections/ZhishanQ/puma">🤗 Models & Datasets</a> / <a href="https://mp.weixin.qq.com/s/MZvT2wWKZkQjaoK_vgkg5A"><img src="https://img.shields.io/badge/WeChat-机器之心-green.svg?logo=wechat" alt="WeChat-机器之心"></a></div>
+</div>
 
-* **Dehai Min**, Kailin Zhang, Tongtong Wu, Lu Cheng. [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134) <span class="venue venue-pub">ACL Findings 2026</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2512.19134) / [📦 Code](https://github.com/ZhishanQ/QuCo-RAG) <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / [![WeChat-新智元](https://img.shields.io/badge/WeChat-新智元-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA)</span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2512.19134">QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation</a> <span class="venue venue-pub">ACL Findings 2026</span></div>
+  <div class="pub-authors"><strong>Dehai Min</strong>, Kailin Zhang, Tongtong Wu, Lu Cheng.</div>
+  <div class="pub-links"><span class="topic topic-retrieval">RAG</span> <a href="https://github.com/ZhishanQ/QuCo-RAG">📦 Code</a> <img src="https://img.shields.io/github/stars/ZhishanQ/QuCo-RAG?style=social&label=Stars"> / <a href="https://mp.weixin.qq.com/s/2hcm6AvMxh39XS7RECjXLA"><img src="https://img.shields.io/badge/WeChat-新智元-green.svg?logo=wechat" alt="WeChat-新智元"></a></div>
+</div>
 
-* **Dehai Min**, Zhiyang Xu, Guilin Qi, Lifu Huang, and Chenyu You. [UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers](https://arxiv.org/abs/2410.20163) <span class="venue venue-oral">NAACL 2025, Oral</span> Highest Meta-Review Score: 5
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2410.20163) / [📦 Code](https://github.com/ZhishanQ/UniHGKR) <img src="https://img.shields.io/github/stars/ZhishanQ/UniHGKR?style=social&label=Stars"> / [🤗 Models & Datasets](https://huggingface.co/collections/ZhishanQ/unihgkr-6846b60973fa75b04681a388)</span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2410.20163">UniHGKR: Unified Instruction-aware Heterogeneous Knowledge Retrievers</a> <span class="venue venue-oral">NAACL 2025, Oral</span> <span class="pub-note">Highest Meta-Review Score: 5</span></div>
+  <div class="pub-authors"><strong>Dehai Min</strong>, Zhiyang Xu, Guilin Qi, Lifu Huang et al.</div>
+  <div class="pub-links"><span class="topic topic-retrieval">Information Retrieval</span> <a href="https://github.com/ZhishanQ/UniHGKR">📦 Code</a> <img src="https://img.shields.io/github/stars/ZhishanQ/UniHGKR?style=social&label=Stars"> / <a href="https://huggingface.co/collections/ZhishanQ/unihgkr-6846b60973fa75b04681a388">🤗 Models & Datasets</a></div>
+</div>
 
-* **Dehai Min**\*, Nan Hu\*, Rihui Jin, Nuo Lin, Jiaoyan Chen, Yongrui Chen, Yu Li et al. [Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data](https://arxiv.org/abs/2402.12869) <span class="venue venue-oral">NAACL 2024, Oral</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2402.12869) / [🎤 Slides](https://zhishanq.github.io/files/Oral_for_NAACL_2024.pdf)</span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2402.12869">Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data</a> <span class="venue venue-oral">NAACL 2024, Oral</span></div>
+  <div class="pub-authors"><strong>Dehai Min</strong>*, Nan Hu*, Rihui Jin, Nuo Lin et al.</div>
+  <div class="pub-links"><span class="topic topic-retrieval">RAG</span> <a href="https://zhishanq.github.io/files/Oral_for_NAACL_2024.pdf">🎤 Slides</a></div>
+</div>
 
-* Daoan Zhang\*, Qinbo Bai\*, **Dehai Min**\*, Xingyu Mu, Ziyi Chen, Jianing Yin. [Veritas: A Verifier Generation Harness for Agent Tasks](https://arxiv.org/abs/2611.13336) <span class="venue venue-review">Preprint 2026</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2611.13336)</span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2611.13336">Veritas: A Verifier Generation Harness for Agent Tasks</a> <span class="venue venue-review">Preprint 2026</span></div>
+  <div class="pub-authors">Daoan Zhang*, Qinbo Bai*, <strong>Dehai Min</strong>*, Xingyu Mu et al.</div>
+  <div class="pub-links"><span class="topic topic-agent">Verifier Synthesis</span></div>
+</div>
 
-* Shicheng Fan\*, Haochang Hao\*, **Dehai Min**\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-review">Preprint 2026</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.29648) / [📦 Code](https://github.com/shichengf/CorVer) <img src="https://img.shields.io/github/stars/shichengf/CorVer?style=social&label=Stars"></span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2605.29648">Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering</a> <span class="venue venue-review">Preprint 2026</span></div>
+  <div class="pub-authors">Shicheng Fan*, Haochang Hao*, <strong>Dehai Min</strong>*, Weihao Liu et al.</div>
+  <div class="pub-links"><span class="topic topic-training">Post-Training</span> <a href="https://github.com/shichengf/CorVer">📦 Code</a> <img src="https://img.shields.io/github/stars/shichengf/CorVer?style=social&label=Stars"></div>
+</div>
 
-* Yiming Tan\*, **Dehai Min**\*, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen, and Guilin Qi. [Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) <span class="venue venue-oral">ISWC 2023, Oral</span> **370 Citations**
-<br><span class="pub-links">[📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19) / [📦 Code](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family) <img src="https://img.shields.io/github/stars/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family?style=social&label=Stars"> / [🎤 Slides](https://zhishanq.github.io/files/ISWC2023-oral_new.pdf)</span>
+<div class="pub">
+  <div class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19">Can ChatGPT replace traditional KBQA models? An in-depth analysis of the question answering performance of the GPT LLM family</a> <span class="venue venue-oral">ISWC 2023, Oral</span> <span class="pub-note"><strong>370 Citations</strong></span></div>
+  <div class="pub-authors">Yiming Tan*, <strong>Dehai Min</strong>*, Yu Li, Wenbo Li et al.</div>
+  <div class="pub-links"><span class="topic topic-eval">LLM Evaluation</span> <a href="https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family">📦 Code</a> <img src="https://img.shields.io/github/stars/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family?style=social&label=Stars"> / <a href="https://zhishanq.github.io/files/ISWC2023-oral_new.pdf">🎤 Slides</a></div>
+</div>
 
 <div style="margin-top: 2em;"></div>
 
 ### Selected Collaborative Publications
 
-* Fangxu Yu, Tao Feng, **Dehai Min**, Lu Cheng, Ge Liu, Tianyi Zhou. [TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning](https://arxiv.org/abs/2607.08940) <span class="venue venue-pub">COLM 2026</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2607.08940) / [📦 Code](https://github.com/tianyi-lab/TSRouter) <img src="https://img.shields.io/github/stars/tianyi-lab/TSRouter?style=social&label=Stars"></span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2607.08940">TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning</a> <span class="venue venue-pub">COLM 2026</span></div>
+  <div class="pub-authors">Fangxu Yu, Tao Feng, <strong>Dehai Min</strong>, Lu Cheng et al.</div>
+  <div class="pub-links"><span class="topic topic-efficient">Model Routing</span> <a href="https://github.com/tianyi-lab/TSRouter">📦 Code</a> <img src="https://img.shields.io/github/stars/tianyi-lab/TSRouter?style=social&label=Stars"></div>
+</div>
 
-* Weihao Liu, **Dehai Min**, Lu Cheng. [Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](https://arxiv.org/abs/2602.10229) <span class="venue venue-pub">ICML 2026</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2602.10229) / [📦 Code](https://github.com/NeosKnight233/Latent-Thoughts-Tuning) <img src="https://img.shields.io/github/stars/NeosKnight233/Latent-Thoughts-Tuning?style=social&label=Stars"></span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2602.10229">Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens</a> <span class="venue venue-pub">ICML 2026</span></div>
+  <div class="pub-authors">Weihao Liu, <strong>Dehai Min</strong>, Lu Cheng.</div>
+  <div class="pub-links"><span class="topic topic-efficient">Latent Reasoning</span> <a href="https://github.com/NeosKnight233/Latent-Thoughts-Tuning">📦 Code</a> <img src="https://img.shields.io/github/stars/NeosKnight233/Latent-Thoughts-Tuning?style=social&label=Stars"></div>
+</div>
 
-* Mingyang Wei, **Dehai Min**, Zewen Liu, Yuzhang Xie, Guanchen Wu, Carl Yang, Max S.Y. Lau, Qi He, Lu Cheng, Wei Jin. [EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning](https://arxiv.org/abs/2601.03471) <span class="venue venue-pub">EMNLP 2026</span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2601.03471">EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning</a> <span class="venue venue-pub">EMNLP 2026</span></div>
+  <div class="pub-authors">Mingyang Wei, <strong>Dehai Min</strong>, Zewen Liu, Yuzhang Xie et al.</div>
+  <div class="pub-links"><span class="topic topic-eval">LLM Evaluation</span></div>
+</div>
 
-* Huiyi Chen, Jiawei Peng, **Dehai Min**, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng. [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/abs/2511.14159) <span class="venue venue-pub">ICML 2026</span>
-<br><span class="pub-links">[📦 Code](https://github.com/chenyil6/MVI-Bench) <img src="https://img.shields.io/github/stars/chenyil6/MVI-Bench?style=social&label=Stars"></span>
+<div class="pub">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2511.14159">MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs</a> <span class="venue venue-pub">ICML 2026</span></div>
+  <div class="pub-authors">Huiyi Chen, Jiawei Peng, <strong>Dehai Min</strong>, Changchang Sun et al.</div>
+  <div class="pub-links"><span class="topic topic-eval">Multimodal Evaluation</span> <a href="https://github.com/chenyil6/MVI-Bench">📦 Code</a> <img src="https://img.shields.io/github/stars/chenyil6/MVI-Bench?style=social&label=Stars"></div>
+</div>
 
 ## 🏅 Competitions
 ( I was an active participant in programming competitions during my undergraduate years. )
 
-* **<span style="color: #8B0000;">ACM-ICPC</span>** (International Collegiate Programming Contest) , Asian Regional Contest (including all participating universities in mainland China), 2019-2020, **2 times <span style="color: #8B0000;">Silver Medal</span>**. [individual](https://zhishanq.github.io/images/ICPC_Individual.pdf) / [team](https://zhishanq.github.io/images/ICPC_Team.pdf)
-* **<span style="color: #8B0000;">CCPC-Finals</span>** (China Collegiate Programming Contest National Finals), 2019, **21st place, <span style="color: #8B0000;">Silver Medal</span>**
-* Anhui Province Collegiate Programming Contest, **First Prize (2 times, 2019, 2020), Champion🏆 (1 time, 2020)**
-* Codeforces Rating: **2108 (Master)**, [link](https://codeforces.com/profile/QieziMin)
+<div class="comp-row">
+  <img class="comp-logo" src="../images/icpc_logo.png" alt="ACM International Collegiate Programming Contest">
+  <ul class="comp-list">
+    <li><strong><span style="color: #8B0000;">ACM-ICPC</span></strong> (International Collegiate Programming Contest) , Asian Regional Contest (including all participating universities in mainland China), 2019-2020, <strong>2 times <span style="color: #8B0000;">Silver Medal</span></strong>. <a href="https://zhishanq.github.io/images/ICPC_Individual.pdf">individual</a> / <a href="https://zhishanq.github.io/images/ICPC_Team.pdf">team</a></li>
+    <li><strong><span style="color: #8B0000;">CCPC-Finals</span></strong> (China Collegiate Programming Contest National Finals), 2019, <strong>21st place, <span style="color: #8B0000;">Silver Medal</span></strong></li>
+    <li>Anhui Province Collegiate Programming Contest, <strong>First Prize (2 times, 2019, 2020), Champion🏆 (1 time, 2020)</strong></li>
+    <li>Codeforces Rating: <strong>2108 (Master)</strong>, <a href="https://codeforces.com/profile/QieziMin">link</a></li>
+  </ul>
+</div>
 
 ## 🎤 Invited Talks
 
