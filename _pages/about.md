@@ -82,7 +82,7 @@ I am always open to research discussions — feel free to reach out!
 
 <div class="edu-row">
   <img src="../images/ByteDance_logo.svg" width="100" style="vertical-align: middle;">
-  <div class="edu-info"><strong>ByteDance (TikTok)</strong> , <em>05/2026 - 08/2026</em><br>Research Scientist Intern , San Jose, California<br>Doubao/Seed Agent Model-as-a-Service (MaaS) Team, AML / <a href="https://www.volcengine.com/product/ark">Volcano Engine-Ark</a>.<br>Data flywheel from deployment trajectories back into Doubao/Seed agent evaluation and environment.</div>
+  <div class="edu-info"><strong>ByteDance</strong> , <em>05/2026 - 08/2026</em><br>Research Scientist Intern , San Jose, California<br>Doubao/Seed Agent Model-as-a-Service (MaaS) Team, AML / <a href="https://www.volcengine.com/product/ark">Volcano Engine-Ark</a>.<br>Data flywheel from deployment trajectories back into Doubao/Seed agent evaluation and environment.</div>
 </div>
 
 ## 📝 Publications and Preprints
